@@ -8,7 +8,7 @@ function getUrlParameter(sParam) {
   sURLVariables.forEach((paraName) => {
     const sParameterName = paraName.split('=');
     if (sParameterName[0] === sParam) {
-      returner = sParameterName[1] === undefined ? true : sParameterName[1];
+      returner = sParameterName[1] === undefined ? false : sParameterName[1];
     }
   });
   return returner;
@@ -44,7 +44,6 @@ function getFormData($form) {
 
 $('form').on('submit', (event) => {
   event.preventDefault();
-  console.log(getFormData($(this)));
   const jsonMovie = JSON.stringify(getFormData($(this)));
   putData(jsonMovie);
 });
@@ -72,5 +71,7 @@ function getData(id) {
 
 $(document).ready(() => {
   const currentId = (getUrlParameter('id'));
+  if (currentId !== undefined) {
   getData(currentId);
+}
 });
