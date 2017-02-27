@@ -13,6 +13,13 @@
       "year": "1980",
       "myRating": "10",
       "posterURL": "http://static.rogerebert.com/uploads/movie/movie_poster/airplane-1980/large_b4sAWNIbfXw4WTdc1wiVRBk2Vko.jpg"
+    },
+    {
+      "title": "Lego movie",
+      "director": "Harry",
+      "year": "1920",
+      "myRating": "6",
+      "posterURL": ""
     }
   ]
 }
