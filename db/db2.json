@@ -1,0 +1,25 @@
+{
+  "movies": [
+    {
+      "title": "Airplane2",
+      "director": "Jim Abrahams",
+      "year": "1980",
+      "myRating": "10",
+      "posterURL": "http://static.rogerebert.com/uploads/movie/movie_poster/airplane-1980/large_b4sAWNIbfXw4WTdc1wiVRBk2Vko.jpg"
+    },
+    {
+      "Title": "Fight Club",
+      "Director": "David Fincher",
+      "Year": "1999",
+      "My Rating": "8",
+      "Poster URL": "https://s-media-cache-ak0.pinimg.com/736x/fd/5e/66/fd5e662dce1a3a8cd192a5952fa64f02.jpg"
+    },
+    {
+      "Title": "The Count of Monte Cristo",
+      "Director": "Kevin Reynolds",
+      "Year": "2002",
+      "My Rating": "7.7",
+      "Poster URL": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDM0ZWRjZDgtZWI0MS00ZTIzLTg4MWYtZjU5MDEyMDU0ODBjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    }
+  ]
+}

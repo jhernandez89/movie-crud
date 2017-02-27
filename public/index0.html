@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-dark bg-inverse">
+      <a href="#" class="btn btn-default">Home</a>
+<a href="index.html" class="btn btn-primary">Movies</a>
+<a href="newMovie.html" class="btn btn-success">New Movie</a>
+<a href="edit.html" class="btn btn-info">Edit</a>
+    </nav>
+    <main class="container">
+        <section class="movies" id="movies">
+            <h2>Featured Movies</h2>
+            <div class="row myMovies">
+            </div>
+        </section>
+    </main>
+    <script src="javascript/generateMovies.js"></script>
+</body>
+
+</html>

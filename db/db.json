@@ -1,0 +1,18 @@
+{
+  "movies": [
+    {
+      "title": "Fight Club",
+      "director": "David Fincher",
+      "year": "1999",
+      "myRating": "8",
+      "posterURL": "https://s-media-cache-ak0.pinimg.com/736x/fd/5e/66/fd5e662dce1a3a8cd192a5952fa64f02.jpg"
+    },
+    {
+      "title": "Airplane",
+      "director": "Jim Abrahams",
+      "year": "1980",
+      "myRating": "10",
+      "posterURL": "http://static.rogerebert.com/uploads/movie/movie_poster/airplane-1980/large_b4sAWNIbfXw4WTdc1wiVRBk2Vko.jpg"
+    }
+  ]
+}

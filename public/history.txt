@@ -1,0 +1,4500 @@
+    1  exit
+    2  nano .zshrc
+    3  exit
+    4  atom .zshrc
+    5  brew install zsh-syntax-highlighting\n
+    6  git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions\n
+    7  atom .zshrc
+    8  exit
+    9  zshconfig
+   10  exit
+   11  atom
+   12  brew help
+   13  $ cowsay hello
+   14  brew install cowsay
+   15  cowsay
+   16  cowsay -f dragon hello
+   17  cowsay "hello"
+   18  cowsay dragon roar
+   19  cowsay -f dragon roar
+   20  cowsay help
+   21  cowsay -f help
+   22  cowhide
+   23  cowsay
+   24  cowsay "hello"
+   25  lkdtt dlsk 
+   26  cowsay help
+   27  cowsay 'help'
+   28  cd
+   29  cd /
+   30  cowsay
+   31  cowsay help
+   32  brew doctor
+   33  brew install git
+   34  git --version
+   35  exit
+   36  which git
+   37  git --version
+   38  whoami
+   39  git config --global user.name 'Jeff Miguel Hernandez'
+   40  git config --global user.email 'jeffhernandez89@gmail.com\n'
+   41  brew install node
+   42  node -v
+   43  node
+   44  brew install zsh
+   45  atom ~/Desktop/test.js
+   46  zsh --version
+   47  node ~/Desktop/test.js
+   48  rm ~/Desktop/test.js
+   49  exho $HOME
+   50  echo $home
+   51  echo $HOME
+   52  pwd
+   53  cd
+   54  mkdir galvanize && \\ncd galvanize && \\nmkdir galvanize && \\ncd galvanize && \\nmkdir unit-1 && mkdir unit-2 && mkdir unit-3 && mkdir unit-4 && mkdir projects && \\nls -lamkdir galvanize && \\ncd galvanize && \\nmkdir unit-1 && mkdir unit-2 && mkdir unit-3 && mkdir unit-4 && mkdir projects && \\nls -la
+   55  .exit
+   56  mkdir galvanize && \\ncd galvanize && \\nmkdir unit-1 && mkdir unit-2 && mkdir unit-3 && mkdir unit-4 && mkdir projects && \\nls -la
+   57  .exit
+   58  exit
+   59  cd
+   60  echo $HOME
+   61  mwd
+   62  pwd
+   63  cd
+   64  open
+   65  exit
+   66  cd
+   67  echo $HOME
+   68  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"\n
+   69  ZSH_THEME="agnoster"
+   70  $HOME
+   71  ls -la
+   72  atom .oh-my-zsh
+   73  atom .zshrc
+   74  /Users/jeffhernandez/Downloads/fonts-master/install.sh; exit;
+   75  cd
+   76  l
+   77  cd galvanize
+   78  l
+   79  cd galvanize
+   80  l
+   81  cd ..
+   82  l
+   83  mv galvanize/* .
+   84  l
+   85  rmdir galvanize
+   86  l
+   87  cd ..
+   88  l
+   89  cd
+   90  open test.html
+   91  exit
+   92  cd
+   93  cd desktop
+   94  open test.html
+   95  cd ~
+   96  mkdir firstProject
+   97  cd firstProject
+   98  cd 
+   99  cd firstProject
+  100  cd ~
+  101  cd
+  102  cd /
+  103  ls
+  104  cd
+  105  cd [firstProject]
+  106  cd /
+  107  ls -|
+  108  cd
+  109  cd firstProject
+  110  open test.html
+  111  atom .
+  112  touch secondPage.html
+  113  open secondPage.html
+  114  open test.html
+  115  touch styles.css
+  116  open secondPage.html
+  117  touch stylesTwo.css
+  118  open test.html
+  119  touch divTest.html
+  120  cd
+  121  cd ls
+  122  ls
+  123  cd firstProject
+  124  ls
+  125  cat styles.css
+  126  ls
+  127  ls -l
+  128  cd -
+  129  ls
+  130  cd -ls
+  131  cd firstProject
+  132  ls
+  133  rm myGif.gif
+  134  rm myGif.mp4
+  135  ls
+  136  mv test.html firstPage.html
+  137  ls
+  138  rm Tn9uqwk.png
+  139  ls
+  140  mv styles.css stylesTwo.css
+  141  ls
+  142  history
+  143  ls
+  144  cat adult.gif
+  145  1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;1;112;112;1;0x1;2c
+  146  cd ~
+  147  ls
+  148  cd firstProject
+  149  ...
+  150  ls -l
+  151  ls
+  152  cd jeffhernandez/firstProject
+  153  ls
+  154  ...
+  155  ~
+  156  ls
+  157  ...
+  158  cd users
+  159  ls
+  160  cd galv
+  161  cd galvanize
+  162  cd Pictures
+  163  cd firstProject
+  164  cd jeffhernandez/galvanize
+  165  ls
+  166  cd projects
+  167  ls
+  168  vim funny-jokes.md
+  169  ls
+  170  cd Documents
+  171  touch vimTest.md
+  172  ls
+  173  vim vimTest.md
+  174  cd
+  175  ls
+  176  cd Documents
+  177  touch cli-notes.md
+  178  vim cli-notes.md
+  179  cd Documents
+  180  mkdir notes
+  181  ls
+  182  mv cli-notes.md notes/
+  183  ls
+  184  cd notes
+  185  history
+  186  ls
+  187  cd -
+  188  cd
+  189  ls
+  190  cd Documents
+  191  ls
+  192  touch cli-notes.md
+  193  vim cli-notes.md
+  194  cat cli-notes.md
+  195  cd
+  196  ls
+  197  cd Documents
+  198  ls
+  199  rm cli-notes.md
+  200  ls
+  201  touch cli-notes.md
+  202  vim cli-notes.md
+  203  mkdir notes
+  204  rm notes
+  205  rm -r notes
+  206  ls
+  207  mkdir notes
+  208  mv cli-notes.md notes/
+  209  cd notes
+  210  ls
+  211  cp cli-notes.md cli-notes-2.md
+  212  ls
+  213  mv cli-notes-2.md cli_commands.md
+  214  ls
+  215  rm cli-notes.md
+  216  cat cli_commands.md
+  217  ~
+  218  ls
+  219  cd Documents
+  220  ls
+  221  rm notes
+  222  rm -r notes
+  223  ls
+  224  cd firstProject
+  225  cd ...
+  226  ls
+  227  cd jeffhernandez/galvanize
+  228  ..
+  229  ls
+  230  cd Documents
+  231  touch cli_notes.md
+  232  vim cli_notes.md
+  233  mkdir notes
+  234  mv cli_notes.md notes
+  235  ls
+  236  cd notes
+  237  ls
+  238  cp cli_notes.md cli_notes_2
+  239  ls
+  240  mv cli_notes_2 cli_commands.md
+  241  ls
+  242  rm cli_notes.md
+  243  ls
+  244  ..
+  245  rm -r notes
+  246  ls
+  247  ..
+  248  ls
+  249  cd firstProject
+  250  ls
+  251  open firstPage.html
+  252  \tls
+  253  cp stylesTwo.css stylesOne.css
+  254  ls
+  255  cd
+  256  ls
+  257  ..
+  258  ls
+  259  cd Documents
+  260  cd jeffhernandez/Documents
+  261  ls
+  262  ..
+  263  mv vimTest.md vimtestTwo
+  264  mv vimTest.md vimtestTwo.md
+  265  ls
+  266  cd firstProject
+  267  touch test.md
+  268  mv test.md testTwo.md
+  269  ls
+  270  ..
+  271  ls
+  272  cd Documents
+  273  mkdir git-example
+  274  cd git-example
+  275  git init
+  276  ls
+  277  ls -a
+  278  touch index.html
+  279  atom indext.html
+  280  git status
+  281  git add -A
+  282  git commit -m "Initial commit"
+  283  ...
+  284  ls
+  285  firstProject
+  286  git init
+  287  ls
+  288  cp firstpage.html index.html
+  289  ls
+  290  atom index.html
+  291  git add index.html
+  292  git status
+  293  git commit -m "initial try"
+  294  git commit -m "second try"
+  295  git status
+  296  git add index.html
+  297  ls
+  298  git status
+  299  git push origin master
+  300  mkdir git-example
+  301  cd git-example
+  302  touch index.html
+  303  atom index.html
+  304  pwd
+  305  cd ..
+  306  rm -r .git
+  307  rm -rf .git
+  308  ls
+  309  cd git-example
+  310  git init
+  311  ls
+  312  git add -A
+  313  git commit -m "second try"
+  314  git status
+  315  git commit -m "third try"
+  316  git add
+  317  git add -A
+  318  git commit -m "third try"
+  319  git log
+  320  git remote add git@github.com:jhernandez89/myTest.git
+  321  git remote add origin git@github.com:jhernandez89/myTest.git
+  322  git remote -v
+  323  brew install powerline
+  324  git push origin master
+  325  git remote add origin https://github.com/jhernandez89/myTest.git
+  326  rm origin
+  327  ls -a
+  328  git remote add originTwo https://github.com/jhernandez89/myTest.git
+  329  ls
+  330  git checkout -b
+  331  git checkout -b test
+  332  atom .
+  333  git status
+  334  brew install powerline
+  335  brew install homebrew/emacs/powerline-emacs
+  336  brew install powerline
+  337  ls
+  338  git checkout master
+  339  git checkout tesst
+  340  git checkout test
+  341  git checkout master
+  342  git checkout test
+  343  git checkout master
+  344  git checkout test
+  345  brew install powerline
+  346  git checkout master
+  347  git checkout landing-page -b
+  348  git checkout -b landing-page
+  349  git status
+  350  git add -a
+  351  git add -A
+  352  git status
+  353  git commit -m "first try"
+  354  git status
+  355  git push origin landing-page
+  356  git status
+  357  git add -A
+  358  ls
+  359  git status
+  360  git push origin landing-page
+  361  git commit -m "second try"
+  362  git push origin landing-page
+  363  git status
+  364  git push origin landing-page
+  365  git remote -v
+  366  git push originTwo landing-page
+  367  git remote -h
+  368  git remote remove origin
+  369  git remote -v
+  370  git remote -h
+  371  git remote rename originTwo origin
+  372  git remote -v
+  373  git push -h
+  374  git push -v
+  375  git remote -h
+  376  git add -h
+  377  brew install powerline fonts
+  378  pip install https://github.com/Lokaltog/powerline/tarball/develop
+  379  brew install https://github.com/Lokaltog/powerline/tarball/develop
+  380  python --version
+  381  brew install python
+  382  python --version
+  383  pip install https://github.com/Lokaltog/powerline/tarball/develop
+  384  pip install powerline
+  385  ls
+  386  ....
+  387  ls
+  388  jeffhernandez
+  389  ls
+  390  cd local
+  391  ls -a
+  392  ..
+  393  ls
+  394  cd usr
+  395  ls
+  396  cd local/lib
+  397  ls
+  398  cd python2.7
+  399  cd site-packages
+  400  ls
+  401  powerline
+  402  open powerline
+  403  ~/.vimrc:
+  404  cd ~/vimrc
+  405  cd ~/.vimrc
+  406  ~/.vimrc
+  407  cd
+  408  ls
+  409  cd firstProject
+  410  mkdir gitPractice
+  411  cd gitPractice
+  412  git init
+  413  touch index.html
+  414  git status
+  415  atom index.html
+  416  powerline
+  417  open powerline
+  418  ...........
+  419  ...
+  420  ..
+  421  cd ~
+  422  ls
+  423  ..
+  424  ls
+  425  cd usr
+  426  ls
+  427  cd local
+  428  ls
+  429  find powerline
+  430  zshconfig
+  431  ~
+  432  . .zshrc
+  433  ls -la
+  434  source .zshrc
+  435  ls
+  436  ..
+  437  cd
+  438  ls
+  439  cd firstProject
+  440  ls
+  441  cd gitPractice
+  442  ls
+  443  ls -a
+  444  rm .git
+  445  rm -rf .git
+  446  ls
+  447  ls -a
+  448  git init
+  449  touch index.html
+  450  ls
+  451  git status
+  452  atom index.html
+  453  git add -A
+  454  git status
+  455  git commit -m "first save"
+  456  git status
+  457  git add -A
+  458  git status
+  459  git commit -m "second save"
+  460  git status
+  461  git push origin gitPractice
+  462  git push origin master
+  463  atom index.html
+  464  git remote -h
+  465  git remote remove origin
+  466  git push origin master
+  467  git log
+  468  git checkout -b servent
+  469  git checkout master
+  470  git checkout servent
+  471  git commit -m "test"
+  472  git add -A
+  473  git commit -m "test"
+  474  git status
+  475  git checkout master
+  476  git checkout servent
+  477  git log
+  478  git remote add origin https://github.com/jhernandez89/testRepo.git
+  479  touch books.txt && \\necho "To Kill a Mockingbird by Harper Lee" > books.txt && \\necho "1984 by George Orwell" >> books.txt && \\necho "The Hunger Games #1 by Suzanne Collins" >> books.txt && \\necho "The Da Vinci Code by Dan Brown" >> books.txt && \\necho "The Catcher in the Rye by J.D. Salinger" >> books.txt && \\necho "Harry Potter and the Sorcerer's Stone by J.K. Rowling" >> books.txt && \\necho "Animal Farm by George Orwell" >> books.txt && \\necho "The Kite Runner by Khaled Hosseini" >> books.txt && \\necho "The Hobbit by J.R.R. Tolkien" >> books.txt && \\necho "Angels & Demons by Dan Brown" >> books.txt && \\necho "Fahrenheit 451 by Ray Bradbury" >> books.txt && \\necho "American Gods by Neil Gaiman" >> books.txt && \\necho "The Old Man and the Sea by Ernest Hemingway" >> books.txt && \\necho "Frankenstein by Mary Shelley" >> books.txt && \\necho "The Adventures of Huckleberry Finn by Mark Twain" >> books.txt && \\nclear && echo "Your Books:\n" && cat books.txttouch books.txt && \\necho "To Kill a Mockingbird by Harper Lee" > books.txt && \\necho "1984 by George Orwell" >> books.txt && \\necho "The Hunger Games #1 by Suzanne Collins" >> books.txt && \\necho "The Da Vinci Code by Dan Brown" >> books.txt && \\necho "The Catcher in the Rye by J.D. Salinger" >> books.txt && \\necho "Harry Potter and the Sorcerer's Stone by J.K. Rowling" >> books.txt && \\necho "Animal Farm by George Orwell" >> books.txt && \\necho "The Kite Runner by Khaled Hosseini" >> books.txt && \\necho "The Hobbit by J.R.R. Tolkien" >> books.txt && \\necho "Angels & Demons by Dan Brown" >> books.txt && \\necho "Fahrenheit 451 by Ray Bradbury" >> books.txt && \\necho "American Gods by Neil Gaiman" >> books.txt && \\necho "The Old Man and the Sea by Ernest Hemingway" >> books.txt && \\necho "Frankenstein by Mary Shelley" >> books.txt && \\necho "The Adventures of Huckleberry Finn by Mark Twain" >> books.txt && \\nclear && echo "Your Books:\n" && cat bo
+  480  ..
+  481  ls
+  482  firstProject
+  483  mkdir books
+  484  cd books
+  485  ls
+  486  touch books.txt && \\necho "To Kill a Mockingbird by Harper Lee" > books.txt && \\necho "1984 by George Orwell" >> books.txt && \\necho "The Hunger Games #1 by Suzanne Collins" >> books.txt && \\necho "The Da Vinci Code by Dan Brown" >> books.txt && \\necho "The Catcher in the Rye by J.D. Salinger" >> books.txt && \\necho "Harry Potter and the Sorcerer's Stone by J.K. Rowling" >> books.txt && \\necho "Animal Farm by George Orwell" >> books.txt && \\necho "The Kite Runner by Khaled Hosseini" >> books.txt && \\necho "The Hobbit by J.R.R. Tolkien" >> books.txt && \\necho "Angels & Demons by Dan Brown" >> books.txt && \\necho "Fahrenheit 451 by Ray Bradbury" >> books.txt && \\necho "American Gods by Neil Gaiman" >> books.txt && \\necho "The Old Man and the Sea by Ernest Hemingway" >> books.txt && \\necho "Frankenstein by Mary Shelley" >> books.txt && \\necho "The Adventures of Huckleberry Finn by Mark Twain" >> books.txt && \\nclear && echo "Your Books:\n" && cat books.txt
+  487  ls -lh books.txt
+  488  touch sorted_books.txt
+  489  ls
+  490  touch books_by_george_orwell.txt
+  491  ls
+  492  grep help
+  493  grep -h
+  494  man grep
+  495  ls
+  496  ls -lh books.txt
+  497  cat books.txt
+  498  grep by book.txt
+  499  grep by books.txt
+  500  grep by books.txt > touch authors.txt
+  501  grep by books.txt > authors.txt
+  502  ls
+  503  cat authors.txt
+  504  rm authors.txt
+  505  grep .* by books.txt
+  506  ..
+  507  ls
+  508  mkdir Murder
+  509  ls
+  510  cd Murder
+  511  git clone git@github.com:veltman/clmystery.git
+  512  git clone https://github.com/veltman/clmystery.git
+  513  ls
+  514  cd clmystery
+  515  ls
+  516  cat *
+  517  ls
+  518  cat instructions
+  519  cd mystery
+  520  ls
+  521  cat crimescene
+  522  grep CLUE crimscene
+  523  grep CLUE crimescene
+  524  ls
+  525  cat people
+  526  ls
+  527  grep Annabel people
+  528  grep Hart Place people
+  529  ls
+  530  cat vehicles
+  531  grep Annabel vehicles
+  532  grep -C Annabel vehicles
+  533  grep -C 3 Annabel vehicles
+  534  grep L2E48EF
+  535  grep L2E48EF vehicles
+  536  grep 0O27BTD vehicles
+  537  grep 20VVU2P vehicles
+  538  grep 9R7TTGF vehicles
+  539  grep Annabel people
+  540  grep Buckingham Place people
+  541  grep Buckingham people
+  542  grep Haley people
+  543  LS
+  544  cat memeberships
+  545  cat memberships
+  546  cd memberships
+  547  ls
+  548  cat AAA
+  549  ..
+  550  ls
+  551  grep Hart people
+  552  grep Annabel people
+  553  grep Haley people
+  554  cd
+  555  ls
+  556  cd Murder
+  557  cd clmystery
+  558  ls
+  559  cd mystery
+  560  ls
+  561  cat memberships
+  562  cd memberships
+  563  ls
+  564  grep Remy AAA
+  565  grep Dennis AAA
+  566  grep Ahmed AAA
+  567  grep Ahmed Museum_of_Bash_History
+  568  grep Remy Museum_of_Bash_History
+  569  grep Dennis Museum_of_Bash_History
+  570  ls
+  571  ~
+  572  ls
+  573  cd firstProject
+  574  ls
+  575  atom firstPage.html
+  576  open firstPage.html
+  577  ls
+  578  .
+  579  ls
+  580  ..
+  581  ls
+  582  cd firstProject
+  583  ls
+  584  open firstPage.html
+  585  ..
+  586  ls
+  587  cd galvanize
+  588  ls
+  589  mkdir testProjects
+  590  cd testProjects
+  591  ls
+  592  touch say-hello.sh
+  593  ls
+  594  atom say-hello.sh
+  595  ./say-hello.sh
+  596  chmod u+x ./say-hello.sh
+  597  ./say-hello.sh
+  598  touch static-site.sh
+  599  atom static-site.sh
+  600  mkdir scripts
+  601  mkdir styles
+  602  cd scripts
+  603  touch main.js
+  604  atom main.js
+  605  ..
+  606  cd styles
+  607  touch main.js
+  608  atom main.js
+  609  touch text.txt
+  610  echo "hello">
+  611  touch say-hello.sh
+  612  atom say-hello.sh
+  613  vim say-hello.sh
+  614  ..
+  615  ls
+  616  ..
+  617  rm -rf testProjects
+  618  ls
+  619  mkdir practice
+  620  cd practice
+  621  touch say-hello.sh
+  622  vim say-hello.sh
+  623  cat say-hello.sh
+  624  ./say-hello.sh
+  625  chmod u+x ./say-hello.sh
+  626  ./say-hello.sh
+  627  run static-site.sh
+  628  ./static-site.sh
+  629  open static-site.sh
+  630  ls
+  631  touch static-site.sh
+  632  vim static-site.sh
+  633  ls
+  634  ./static-site.sh
+  635  chmod u+x ./static-site.sh
+  636  ./static-site.sh
+  637  ls
+  638  vim static-site.sh
+  639  ./static-site.sh
+  640  ls
+  641  vim static-site.sh
+  642  ./static-site.sh
+  643  ls
+  644  vim static-site.sh
+  645  ./static-site.sh
+  646  ls
+  647  atom static-site.sh
+  648  ./static-site.sh
+  649  ls
+  650  ./static-site.sh
+  651  ls
+  652  rm -rf scripts
+  653  ls
+  654  touch test.sh
+  655  atom test.sh
+  656  ls
+  657  ./test.sh
+  658  chmod u+x ./test.sh
+  659  ./test.sh
+  660  ls
+  661  open notepad
+  662  ls
+  663  git clone https://github.com/jhernandez89/problem-solving-assessment.git
+  664  ls
+  665  cd promblem-solving-assessment
+  666  cd problem-solving-assessment
+  667  ls
+  668  atom polya.md
+  669  ls
+  670  git init
+  671  ls
+  672  ls  -a
+  673  git status
+  674  git add -A
+  675  git status
+  676  git commit -m "Polya"
+  677  git remote -h
+  678  git push origin master
+  679  ~
+  680  ls
+  681  cd galvanize
+  682  ls
+  683  cd practice
+  684  ls
+  685  mkdir gitPractice
+  686  cd gitPractice
+  687  ls
+  688  touch index.html
+  689  echo "hello"> index.html
+  690  ls
+  691  cat index.html
+  692  git init
+  693  ls
+  694  ls -a
+  695  git add -A
+  696  git status
+  697  git commit -m "myTest"
+  698  git status
+  699  git checkout -b servent
+  700  git merge -h
+  701  git add -A
+  702  echo "sup" >index.txt
+  703  ls
+  704  atom index.html
+  705  git checkout master
+  706  git checkout servent
+  707  git status
+  708  git add -A
+  709  git commit -m "Test"
+  710  git checkout master
+  711  git checkout servent
+  712  echo "sup" >index.txt
+  713  git add -A
+  714  git commit -m "test"
+  715  git status
+  716  cat index.html
+  717  echo "sup" >index.html
+  718  git merge -h
+  719  git checkout master
+  720  echo "sup" >index.html
+  721  echo "hello" >index.html
+  722  git add -A
+  723  git commit -m "testTwo
+  724  git commit -m "testTwo"
+  725  git checkout master
+  726  git checkout servent
+  727  git checkout master
+  728  cat index.html
+  729  git checkout servent
+  730  git checkout master
+  731  cat index.html
+  732  git add -A
+  733  git commit -m "master"
+  734  git checkout servent
+  735  git checkout master
+  736  git checkout servent
+  737  git add -A
+  738  git commit -m "servent"
+  739  git checkout master
+  740  git checkout servent
+  741  git checkout master
+  742  git merge servent
+  743  git checkout master
+  744  cat index.html
+  745  git add -A
+  746  git commit -m "servent"
+  747  git commit -m "master"
+  748  cat index.html
+  749  git checkout servent
+  750  cat index.html
+  751  git checkout master
+  752  git merge servent
+  753  git checkout servent
+  754  git checkout master
+  755  git merge servent
+  756  ~/
+  757  ls
+  758  ls -la
+  759  ~/
+  760  ls
+  761  ~/Documents
+  762  cd galvanize/practice/gitPractice
+  763  cd galvanize
+  764  ls
+  765  ..
+  766  cd galvanize
+  767  cd practice
+  768  cd gitPractice
+  769  ls
+  770  git checkout servent
+  771  git branch
+  772  ls
+  773  git checkout master
+  774  ls
+  775  git add -A
+  776  git commit -m "adding text style"
+  777  git checkout servent
+  778  git checkout master
+  779  git merge servent
+  780  git checkout servent
+  781  git merge master
+  782  ..
+  783  mkdir commandLineTest
+  784  cd commandLineTest
+  785  touch cli-notes.md
+  786  vim cli-notes.md
+  787  cat cli-notes.md
+  788  mkdir notes
+  789  mv cli-notes.md notes.
+  790  ls
+  791  cd notes
+  792  ls
+  793  ..
+  794  mv notes. cli-notes.md
+  795  mv cli-notes.md notes/
+  796  cd notes
+  797  ls
+  798  cp cli-notes.md cli_notes_2.md
+  799  ls
+  800  mv cli_notes_2.md cli_commands.md
+  801  ls
+  802  rm cli_notes.md
+  803  ls
+  804  rm cli-notes.md
+  805  ls
+  806  cat cli_commands.md
+  807  ..
+  808  rm -rf notes
+  809  ls
+  810  ~/
+  811  cd galvanize/practice/gitPractice
+  812  ls
+  813  rm index.html index.txt
+  814  ls
+  815  git clone https://github.com/jhernandez89/problem-solving-assessment.git
+  816  ls
+  817  ..
+  818  rm -rf gitPractice
+  819  ls
+  820  ..
+  821  ls
+  822  ..
+  823  ls
+  824  firstProject
+  825  ls
+  826  atom first
+  827  atom firstPage.html
+  828  open firstPage.html
+  829  atom stylesOne.css
+  830  ls
+  831  ..
+  832  ls
+  833  cd galvanize/practice/gitPractice
+  834  cd galvanize/practice/
+  835  ls
+  836  mkdir gitPractice
+  837  ls
+  838  cd gitPractice
+  839  ls
+  840  touch text.sh
+  841  vim text.sh
+  842  git init
+  843  ls
+  844  ls -a
+  845  cd .git
+  846  ls
+  847  ..
+  848  git add -A
+  849  ls
+  850  git status
+  851  git commit -m "adding text stuff"
+  852  git status
+  853  git remote -h
+  854  history
+  855  q
+  856  git push origin master
+  857  git remote origin https://github.com/jhernandez89/thistest.git
+  858  ls
+  859  echo "hello" >index.html
+  860  git status
+  861  git add -A
+  862  git commit -m "testing things"
+  863  git status
+  864  git remote origin https://github.com/jhernandez89/thistest.git
+  865  git remote origin git@github.com:jhernandez89/thistest.git
+  866  history
+  867  git remote add origin https://github.com/jhernandez89/thistest.git
+  868  ls
+  869  git push -u origin master
+  870  git
+  871  ls
+  872  ..
+  873  rm -rf gitPractice
+  874  ls
+  875  mkdir gitPractice
+  876  ls
+  877  cd gitPractice
+  878  ls
+  879  touch text.html
+  880  echo "hello" >text.html
+  881  cat text.html
+  882  git add -A
+  883  git init
+  884  ls
+  885  git add -A
+  886  git commit -m "first draft"
+  887  git status
+  888  git push -u origin master
+  889  git remote add origin https://github.com/jhernandez89/thistest.git
+  890  git push -u origin master
+  891  echo "test hello" > text.html
+  892  ls
+  893  cat text.html
+  894  git add -A
+  895  git commit -m "second draft"
+  896  git remote add origin https://github.com/jhernandez89/thistest.git
+  897  git push -u origin master
+  898  ..
+  899  ls
+  900  cd galvanize
+  901  ls
+  902  cd projects
+  903  ls
+  904  ..
+  905  cd practice
+  906  ls
+  907  cd problem-solving-assessment
+  908  ls
+  909  atom polya.md
+  910  ls
+  911  ls - a
+  912  ls -a
+  913  git add -A
+  914  git commit -m "second draft"
+  915  ls
+  916  git status
+  917  git push -u origin master
+  918  ..
+  919  ls
+  920  ..
+  921  ls
+  922  cd firstProject
+  923  ls
+  924  open firstPage.html
+  925  atom firstPage.html
+  926  atom stylesOne.css
+  927  atom.
+  928  atom .
+  929  open firstPage.html
+  930  ls
+  931  git clone https://github.com/jhernandez89/js-expressions-assessment.git
+  932  ls
+  933  cd js-expression-assessment
+  934  ls
+  935  cd js-expressions-assessment
+  936  ls
+  937  open README.md
+  938  atom README.md
+  939  git status
+  940  git add -A
+  941  git commit -m "my answers"
+  942  git status
+  943  git push -u origin master
+  944  true == 1
+  945  false == 0
+  946  3*3
+  947  node
+  948  ls
+  949  cd galvanize
+  950  ls
+  951  cd practice
+  952  ls
+  953  rm -rf gitPractice
+  954  ls
+  955  mkdir javascriptArray
+  956  cd javascriptArray
+  957  ls
+  958  git clone https://github.com/jhernandez89/js-array-assessment.git
+  959  ls
+  960  cd firstProject
+  961  ls
+  962  ..
+  963  cd galvanize
+  964  ls
+  965  cd practice
+  966  ls
+  967  cd javascriptArray
+  968  ls
+  969  cd js-array-assessment
+  970  ls
+  971  atom README.md
+  972  npm install
+  973  npm test
+  974  ls
+  975  cd 03-loop
+  976  ls
+  977  npm test
+  978  ls
+  979  ..
+  980  mkdir Objects
+  981  cd Objects
+  982  git clone https://github.com/jhernandez89/js-object-assessment.git
+  983  ls
+  984  cd js-object-assessment
+  985  ls
+  986  atom README.md
+  987  npm test
+  988  npm install
+  989  npm test
+  990  git add -A
+  991  git commit -m "answers"
+  992  git push -u origin master
+  993  ls
+  994  ..
+  995  ls
+  996  mkdir loops
+  997  cd loops
+  998  git clone https://github.com/jhernandez89/js-loops-and-conditionals-assessment.git
+  999  ls
+ 1000  cd js-loops-and-conditionals-assessment
+ 1001  ls
+ 1002  atom README.md
+ 1003  node
+ 1004  node main.js
+ 1005  node
+ 1006  node main.js
+ 1007  ls
+ 1008  git add -A
+ 1009  git commit -m "answers"
+ 1010  git push -u origin master
+ 1011  ..
+ 1012  cd practice
+ 1013  ls
+ 1014  mkdir gitPractice
+ 1015  cd gitPractice
+ 1016  git init
+ 1017  git clone https://github.com/jhernandez89/git-branch-exercise.git
+ 1018  ls
+ 1019  cd git-branch-exercise
+ 1020  ls
+ 1021  git checkout -b landing-page
+ 1022  touch index.html
+ 1023  vim index.html
+ 1024  cat index.html
+ 1025  echo "```<html>\n<html>\n  <head>\n    <meta charset="utf-8">\n    <title>Git Branch Exercise</title>\n  </head>\n  <body>\n    <h1>Git Is Awesom
+ 1026  atom index.html
+ 1027  cat index.html
+ 1028  git add -A
+ 1029  git commit -m "my test"
+ 1030  git push -u origin master
+ 1031  git add -A
+ 1032  git commit -m "my second edit"
+ 1033  git checkout master
+ 1034  git merge landing-page
+ 1035  git push -u origin master
+ 1036  history
+ 1037  node main.js
+ 1038  ls
+ 1039  ..
+ 1040  ls
+ 1041  ..
+ 1042  ls
+ 1043  cd loops
+ 1044  ls
+ 1045  cd js-loops-and-conditionals-assessment
+ 1046  ls
+ 1047  node main.js
+ 1048  ..
+ 1049  mkdir murder
+ 1050  cd murder
+ 1051  ls
+ 1052  git clone ```<html>\n<html>\n  <head>\n    <meta charset="utf-8">\n    <title>Git Branch Exercise</title>\n  </head>\n  <body>\n    <h1>Git Is Awesome</h1>\n  </body>\n</html>`
+ 1053  git clone https://github.com/jhernandez89/clmystery.git
+ 1054  ls
+ 1055  cd clmystery
+ 1056  ls
+ 1057  atom README.md
+ 1058  cat README.md
+ 1059  cat instructions
+ 1060  ls
+ 1061  cd mystery
+ 1062  ls
+ 1063  cat crimescene
+ 1064  grep CLUE crimescene
+ 1065  ls
+ 1066  cd interviews
+ 1067  ls
+ 1068  ..
+ 1069  ls
+ 1070  cat people
+ 1071  ls
+ 1072  cd memberships
+ 1073  ls
+ 1074  cat AAA
+ 1075  grep Annabel AAA
+ 1076  ls
+ 1077  ..
+ 1078  ls
+ 1079  grep Annabel people
+ 1080  grep Buckingham people
+ 1081  cd streets
+ 1082  ls
+ 1083  cat Granby_Street
+ 1084  ..
+ 1085  ls
+ 1086  grep Annabel crimescene
+ 1087  grep Annabel vehicles
+ 1088  grep -C 3 Annabel vehicles
+ 1089  ls
+ 1090  grep License crimescene
+ 1091  grep car crimescene
+ 1092  ls
+ 1093  grep BMW crimescene
+ 1094  grep Fiat crimescene
+ 1095  grep Mazda crimescene
+ 1096  cat people
+ 1097  ls
+ 1098  grep Annabel people
+ 1099  ls
+ 1100  cd memberships
+ 1101  ls
+ 1102  grep Annabel AAA
+ 1103  grep Annabel people
+ 1104  ls
+ 1105  ..
+ 1106  grep Annabel people
+ 1107  ls
+ 1108  cd interviews
+ 1109  ls
+ 1110  cat interview-48148020
+ 1111  ..
+ 1112  grep -nr Annabel interviews
+ 1113  grep -nr moral interviews
+ 1114  ls
+ 1115  cd streets
+ 1116  ls
+ 1117  ..
+ 1118  ls
+ 1119  grep -nr L2E48EF
+ 1120  grep -nr L2E48EF interviews
+ 1121  grep -nr 0O27BTD interviews
+ 1122  grep -nr 20VVU2P interviews
+ 1123  ..
+ 1124  ls
+ 1125  cd mystery
+ 1126  ls
+ 1127  grep -nr Annabel memberships
+ 1128  ls
+ 1129  grep -nr latte interviews
+ 1130  grep -nr blonde interviews
+ 1131  grep -nr spiky interviews
+ 1132  grep -nr the interviews
+ 1133  ls
+ 1134  grep -nr Annabel streets
+ 1135  cd streets
+ 1136  ls
+ 1137  cat Hull_Street
+ 1138  ls
+ 1139  cd
+ 1140  ls
+ 1141  cd galvanize
+ 1142  ls
+ 1143  cd practice
+ 1144  ls
+ 1145  cd murder
+ 1146  ls
+ 1147  cd mlmystery
+ 1148  ls
+ 1149  cd clmyster
+ 1150  ls
+ 1151  cd clmystery
+ 1152  ls
+ 1153  cd mystery
+ 1154  ls
+ 1155  grep -nr Annabel memberships
+ 1156  grep -nr the interviews
+ 1157  ls
+ 1158  grep CLUE crimescene
+ 1159  ls
+ 1160  grep -nr "New Zealand" interviews
+ 1161  grep -C 3 -nr "New Zealand" interviews
+ 1162  ls
+ 1163  grep -nr Hart streets
+ 1164  cd streets
+ 1165  ls
+ 1166  cd
+ 1167  ls
+ 1168  cd galvanize
+ 1169  ls
+ 1170  cd practice
+ 1171  ls
+ 1172  cd murder
+ 1173  ls
+ 1174  cd clmystery
+ 1175  ls
+ 1176  cat hint2
+ 1177  cat hint3
+ 1178  cat hint4
+ 1179  cat hint5
+ 1180  ls
+ 1181  cd mystery
+ 1182  ls
+ 1183  cd streets
+ 1184  ls
+ 1185  ..
+ 1186  ls
+ 1187  head -n 173 streets
+ 1188  head -n 173
+ 1189  head -n 173 people
+ 1190  ls
+ 1191  streets
+ 1192  ls
+ 1193  head -n 173 streets/Mattapan_Street | tail -n 1
+ 1194  ..
+ 1195  head -n 173 streets/Mattapan_Street | tail -n 1
+ 1196  ..
+ 1197  ls
+ 1198  cd mystery
+ 1199  ls
+ 1200  cat /interviews/interview-9437737
+ 1201  cd interviews
+ 1202  ls
+ 1203  cat interview-9437737
+ 1204  ..
+ 1205  ls
+ 1206  head -n 173 streets/Buckingham_place | tail -n 1 
+ 1207  grep -C 3 interview-9437737
+ 1208  grep -C 3 appear interview-9437737
+ 1209  head -n 173 streets/Buckingham_place | tail -n 1 
+ 1210  head -n 173 streets/Haley_Street | tail -n 1 
+ 1211  head -n 173 streets/Mattapan_Street | tail -n 1 
+ 1212  head -n 173 streets/Hart_Place | tail -n 1 
+ 1213  head -n 40 streets/Hart_Place | tail -n 1
+ 1214  cat interview-#47246024
+ 1215  ls
+ 1216  cd interviews
+ 1217  cat interview-#47246024
+ 1218  cat interview-47246024
+ 1219  ..
+ 1220  head -n 179 streets/Buckingham_place | tail -n 1 
+ 1221  cd interviews
+ 1222  ls
+ 1223  cat interview-699607
+ 1224  ..
+ 1225  ls
+ 1226  grep L337 vehicles
+ 1227  grep -C 3 L337 vehicles
+ 1228  grep -C 5 L337 vehicles
+ 1229  ..
+ 1230  ls
+ 1231  cd mystery
+ 1232  ls
+ 1233  grep -nr Jeremy memeberships
+ 1234  grep -nr Jeremy memberships
+ 1235  grep -nr joe memberships
+ 1236  grep -nr mike memberships
+ 1237  ls
+ 1238  ..
+ 1239  ls
+ 1240  ..
+ 1241  mkdir candyCrush
+ 1242  cd candyCrush
+ 1243  git clone https://github.com/jhernandez89/ccf-data-structures.git
+ 1244  ls
+ 1245  cd cff-data-stuctures
+ 1246  cd cff-data-structures
+ 1247  cd ccf-data-structures
+ 1248  ls
+ 1249  atom readme.md
+ 1250  cd store1
+ 1251  ls
+ 1252  ..
+ 1253  atom readme.md
+ 1254  ..
+ 1255  .
+ 1256  ..
+ 1257  ls
+ 1258  cd murder
+ 1259  ls
+ 1260  cd clmystery
+ 1261  ls
+ 1262  cd mystery
+ 1263  ls
+ 1264  ..
+ 1265  ls
+ 1266  ..
+ 1267  ls
+ 1268  cd candyCrush
+ 1269  ls
+ 1270  cd ccf-data-structures
+ 1271  ls
+ 1272  cd store1
+ 1273  ls
+ 1274  npm install
+ 1275  npm test ./store1
+ 1276  node exercise.js
+ 1277  npm test ./store1
+ 1278  ls
+ 1279  node exercise.js
+ 1280  npm test ./store1
+ 1281  npm test ./store1'
+ 1282  npm test ./store1
+ 1283  npm test ./store1'
+ 1284  npm test ./store1'\nhello
+ 1285  npm test ./store1\nhello
+ 1286  npm test ./store1'\nhello
+ 1287  npm test ./store1\nhello
+ 1288  ls
+ 1289  ..
+ 1290  ls
+ 1291  cd store2
+ 1292  ls
+ 1293  npm test ./store2\nhello
+ 1294  ls
+ 1295  npm test ./store2\nhello
+ 1296  ls
+ 1297  cd
+ 1298  ls
+ 1299  cd galvanize
+ 1300  ls
+ 1301  cd projects
+ 1302  ls
+ 1303  ..
+ 1304  ls
+ 1305  cd practice
+ 1306  ls
+ 1307  cd candyCrush
+ 1308  ls
+ 1309  cd ccf-data-structures
+ 1310  ls
+ 1311  cd store1
+ 1312  npm test ./store1\nhello
+ 1313  ls
+ 1314  ..
+ 1315  ls
+ 1316  cd store2
+ 1317  ls
+ 1318  npm test ./store2\nhello
+ 1319  ls
+ 1320  npm test ./store2\nhello
+ 1321  ls
+ 1322  npm test ./store2\nhello
+ 1323  ..\nhello
+ 1324  ls
+ 1325  cd store3
+ 1326  ls
+ 1327  atom store3
+ 1328  npm test ./store3\nhello
+ 1329  ..
+ 1330  ls
+ 1331  cd store2
+ 1332  ls
+ 1333  atom exercise.js
+ 1334  npm test ./store3\nhello
+ 1335  ls
+ 1336  npm test ./store3\nhello
+ 1337  ls
+ 1338  npm test ./store3\nhello
+ 1339  ls
+ 1340  npm test ./store3\nhello
+ 1341  ls
+ 1342  npm test ./store3\nhello
+ 1343  ls
+ 1344  npm test ./store3\nhello
+ 1345  ls
+ 1346  ..
+ 1347  ls
+ 1348  cd store4
+ 1349  ls
+ 1350  atom exercise.js
+ 1351  ..
+ 1352  cd store2
+ 1353  atom exercise.js
+ 1354  ..
+ 1355  ls
+ 1356  cd store3
+ 1357  ls
+ 1358  npm test ./store4\nhello
+ 1359  \tls
+ 1360  npm test ./store4\nhello
+ 1361  \tls
+ 1362  npm test ./store4\nhello
+ 1363  ls
+ 1364  ..
+ 1365  cd store1
+ 1366  atom exercise.js
+ 1367  npm test ./store1\nhello
+ 1368  ..
+ 1369  ls
+ 1370  ..
+ 1371  ls
+ 1372  ..
+ 1373  ls
+ 1374  cd candyCrush
+ 1375  ls
+ 1376  git add -A
+ 1377  ..
+ 1378  git add candyCrush
+ 1379  ls
+ 1380  cd candyCrush
+ 1381  ls
+ 1382  git add -A
+ 1383  cd ccf-data-structures
+ 1384  git add -A
+ 1385  git commit -m "stores 1-4"
+ 1386  git status
+ 1387  git push -u origin master
+ 1388  atom .gitignore
+ 1389  git status
+ 1390  git rm -fr node_modules
+ 1391  git add -A
+ 1392  git commit -m "stores 1-4"
+ 1393  npm install
+ 1394  git status
+ 1395  git push -u origin master
+ 1396  ls
+ 1397  ..
+ 1398  ls
+ 1399  ..
+ 1400  ls
+ 1401  touch hangman.html
+ 1402  atom hangman.html
+ 1403  npm install
+ 1404  npm test ./hangman.html
+ 1405  node
+ 1406  ls
+ 1407  ..
+ 1408  cd practice/candyCrush
+ 1409  ls
+ 1410  cd ccf-data-structures
+ 1411  ls
+ 1412  cd store1
+ 1413  atom store1
+ 1414  ls
+ 1415  ls -a
+ 1416  atom exercise.js
+ 1417  npm test ./store1
+ 1418  ls
+ 1419  ..
+ 1420  ls
+ 1421  cd store2
+ 1422  ls
+ 1423  atom exercise.js
+ 1424  npm test ./store1
+ 1425  npm test ./store2
+ 1426  ..
+ 1427  ls
+ 1428  cd store4
+ 1429  atom store 4
+ 1430  atom store4
+ 1431  cd store4
+ 1432  ls
+ 1433  cd exercise.js
+ 1434  atom exercise.js
+ 1435  ls
+ 1436  ..
+ 1437  ls
+ 1438  cat store2
+ 1439  cd store2
+ 1440  atom store2
+ 1441  atom exercise.js
+ 1442  npm test ./store2
+ 1443  ..
+ 1444  ls
+ 1445  cd store4
+ 1446  atom exercise.js
+ 1447  ..
+ 1448  ls
+ 1449  cd store4
+ 1450  npm test ./store4
+ 1451  ls
+ 1452  ..
+ 1453  mkdir bigO
+ 1454  cd bigO
+ 1455  git clone https://github.com/jhernandez89/big-o-assessment.git
+ 1456  ls
+ 1457  cd big-o-assessment
+ 1458  ls
+ 1459  atom README.md
+ 1460  ..
+ 1461  mkdir lodash
+ 1462  cd lodash
+ 1463  ls
+ 1464  ..
+ 1465  cd lodash
+ 1466  ..
+ 1467  git clone https://github.com/jhernandez89/lodash.git
+ 1468  ls
+ 1469  cd lodash
+ 1470  ls
+ 1471  atom README.md
+ 1472  atom lodash.js
+ 1473  ls
+ 1474  npm install
+ 1475  npm test
+ 1476  \tls
+ 1477  open lodash.js
+ 1478  open README.md
+ 1479  ..
+ 1480  ls
+ 1481  cd practice
+ 1482  ls
+ 1483  cd bigO
+ 1484  ls
+ 1485  git add -A
+ 1486  cd big-o-assessment
+ 1487  ls
+ 1488  git add -A
+ 1489  git commit -m "BigO answers"
+ 1490  git push -u origin master
+ 1491  ls
+ 1492  ..
+ 1493  ls
+ 1494  cd candyCrush
+ 1495  ls
+ 1496  cd ccf-data-structures
+ 1497  ls
+ 1498  cd store 3
+ 1499  cd store3
+ 1500  ls
+ 1501  atom exercise.js
+ 1502  atom store3-data.js
+ 1503  ls
+ 1504  ..
+ 1505  ls
+ 1506  cd lodash
+ 1507  ls
+ 1508  atom lodash.js
+ 1509  ls
+ 1510  npm test
+ 1511  ls
+ 1512  cd test
+ 1513  ls
+ 1514  atom lodash.js
+ 1515  ..
+ 1516  ls
+ 1517  atom.
+ 1518  atom .
+ 1519  atom lodash.js
+ 1520  npm test
+ 1521  atom .
+ 1522  npm test
+ 1523  ls
+ 1524  ..
+ 1525  ls
+ 1526  cd galvanize
+ 1527  ls
+ 1528  cd practice
+ 1529  ls
+ 1530  mkdir Calc
+ 1531  cd Calc
+ 1532  git clone https://github.com/jhernandez89/js-calculator-warmup.git
+ 1533  ls
+ 1534  cd js-calculator-warmup
+ 1535  ls
+ 1536  atom .
+ 1537  ls
+ 1538  node calculator.js
+ 1539  npm test ./calculator.js
+ 1540  npm install
+ 1541  node calculator.js
+ 1542  ..
+ 1543  cd practice
+ 1544  ls
+ 1545  cd lodash
+ 1546  ls
+ 1547  npm test
+ 1548  ..
+ 1549  ls
+ 1550  mkdir lion
+ 1551  cd lion
+ 1552  git clone https://github.com/jhernandez89/js-scope-and-iife-assessment.git
+ 1553  ls
+ 1554  cd js-scope-and-iife-assessment
+ 1555  ls
+ 1556  atom .
+ 1557  install node.js
+ 1558  install node
+ 1559  brew install node
+ 1560  npm install
+ 1561  ls
+ 1562  npm test
+ 1563  ls
+ 1564  npm test
+ 1565  git add -A
+ 1566  git commit -m  "Lions, Monkeys and Narwhals, oh my\nexit
+ 1567  git commit -m  "Lions, Monkeys and Narwhals, oh my"\nexit
+ 1568  ls
+ 1569  cd firstProject
+ 1570  ls
+ 1571  ..
+ 1572  cd galvanize
+ 1573  ls
+ 1574  cd prac
+ 1575  cd practice/lion/js-scope-and-iife-assessment
+ 1576  ls
+ 1577  git status
+ 1578  git add -A
+ 1579  git commit -m  "Lions, Monkeys and Narwhals, oh my"\nexit
+ 1580  git commit -m  "Lions, Monkeys and Narwhals, oh my"
+ 1581  git push -u origin master
+ 1582  ls
+ 1583  ..
+ 1584  ls
+ 1585  ..
+ 1586  ls
+ 1587  cd candyCrush
+ 1588  ls
+ 1589  cd ccf-data-structures
+ 1590  ls
+ 1591  atom .
+ 1592  cd store1
+ 1593  ls
+ 1594  ..
+ 1595  cd store1
+ 1596  ls
+ 1597  npm test ./store1
+ 1598  ..
+ 1599  ls
+ 1600  cd store2
+ 1601  ls
+ 1602  npm test ./store2
+ 1603  ls
+ 1604  ..
+ 1605  ls
+ 1606  git add -A
+ 1607  git commit -m  "Better indentation and variable names"
+ 1608  git push -u origin master
+ 1609  ls
+ 1610  ...
+ 1611  cd higherOrderFunctions
+ 1612  mkdir higherOrderFunctions
+ 1613  cd higherOrderFunctions
+ 1614  git clone https://github.com/jhernandez89/js-higher-order-functions-assessment.git
+ 1615  atom .
+ 1616  npm install
+ 1617  brew install node
+ 1618  npm insall
+ 1619  npm install
+ 1620  ls
+ 1621  cd js-higher-order-functions-assessment
+ 1622  npm install
+ 1623  ls
+ 1624  node
+ 1625  https://github.com/jhernandez89/js-higher-order-functions-assessment.gitn
+ 1626  node
+ 1627  ls
+ 1628  atom myTest.js
+ 1629  node myTest.js
+ 1630  ..
+ 1631  ls
+ 1632  ..
+ 1633  ls
+ 1634  cd lion
+ 1635  ls
+ 1636  cd js-scope-and-iife-assessment
+ 1637  ls
+ 1638  atom .
+ 1639  ls
+ 1640  ..
+ 1641  git clone https://github.com/jhernandez89/function-assessment-js.git
+ 1642  ls
+ 1643  cd function-assessment-js
+ 1644  ls
+ 1645  atom .
+ 1646  atom greet.js
+ 1647  ls
+ 1648  ls -a
+ 1649  touch greet.js
+ 1650  ls
+ 1651  node greet.js
+ 1652  node people.js
+ 1653  node greet.js
+ 1654  node people.js
+ 1655  node pizzas.js
+ 1656  ls
+ 1657  node not_your_nachos.js
+ 1658  ls
+ 1659  node not_your_nachos.js
+ 1660  ..
+ 1661  pwd
+ 1662  cd
+ 1663  ls
+ 1664  clear
+ 1665  ls
+ 1666  mkdir zsh_custom
+ 1667  ls
+ 1668  cd zsh_custom
+ 1669  ls
+ 1670  touch alias.sh
+ 1671  ls
+ 1672  atom alias.sh
+ 1673  ls -l
+ 1674  chmod u+x alias.sh
+ 1675  ls -l
+ 1676  cd
+ 1677  ls -l
+ 1678  ls -a
+ 1679  atom zshrc
+ 1680  atom .zshrc
+ 1681  ls
+ 1682  mkcd hi
+ 1683  ls
+ 1684  ..
+ 1685  ls
+ 1686  cd galvanize
+ 1687  ls
+ 1688  cd practice
+ 1689  ls
+ 1690  cd lodash
+ 1691  ls
+ 1692  atom .
+ 1693  atom test.js
+ 1694  node test.js
+ 1695  ls
+ 1696  npm test
+ 1697  node testjs
+ 1698  node test.js
+ 1699  atom test.js
+ 1700  node test.js
+ 1701  atom test.js
+ 1702  node test.js
+ 1703  node test
+ 1704  node lodash
+ 1705  npm test
+ 1706  node test
+ 1707  npm test
+ 1708  node test
+ 1709  npm test
+ 1710  node test
+ 1711  npm test
+ 1712  ls
+ 1713  ..
+ 1714  ls
+ 1715  ..
+ 1716  ls
+ 1717  ..
+ 1718  ls
+ 1719  cd firstProject
+ 1720  ls
+ 1721  atom firstPage.html
+ 1722  open firstPage.html
+ 1723  ..cd
+ 1724  find lodash
+ 1725  find lodash.js
+ 1726  find / -type d -lodash
+ 1727  ls
+ 1728  ..
+ 1729  ls
+ 1730  cd galvanize
+ 1731  ls
+ 1732  cd practice
+ 1733  ls
+ 1734  touch wedStuff.js
+ 1735  atom webStuff.js
+ 1736  node webStuff.js
+ 1737  touch superheroes.js
+ 1738  atom superheroes.js
+ 1739  node superheroes.js
+ 1740  touch map.js
+ 1741  atom map.js
+ 1742  node map.js
+ 1743  atom map.js
+ 1744  node map.js
+ 1745  atom map.js
+ 1746  node map.js
+ 1747  touch reduce.js
+ 1748  atom reduce.js
+ 1749  node reduce.js
+ 1750  node superheroes.js
+ 1751  ls
+ 1752  git clone https://github.com/jhernandez89/js-native-array-methods.git
+ 1753  cd js-native-array-methods
+ 1754  ls
+ 1755  atom .
+ 1756  ls
+ 1757  cd src
+ 1758  ls
+ 1759  node every.js
+ 1760  npm test
+ 1761  npm install
+ 1762  npm test
+ 1763  node filter.js
+ 1764  ls
+ 1765  node filter.js
+ 1766  npm test
+ 1767  node filter.js
+ 1768  npm test
+ 1769  node filter.js
+ 1770  ..
+ 1771  ls
+ 1772  ..
+ 1773  ls
+ 1774  atom webstuff.js
+ 1775  atom superheroes.js
+ 1776  cd js-native-array-methods
+ 1777  ls
+ 1778  npm test
+ 1779  node filter.js
+ 1780  ls
+ 1781  atom .
+ 1782  ls
+ 1783  npm test
+ 1784  ls
+ 1785  node filter.js
+ 1786  clear
+ 1787  ls
+ 1788  atom .
+ 1789  node filter.js
+ 1790  vi every.js
+ 1791  ls
+ 1792  cd src
+ 1793  ls
+ 1794  vim every.js
+ 1795  ls
+ 1796  ..
+ 1797  atom .
+ 1798  ..
+ 1799  ls
+ 1800  rm -rf js-native-array-methods
+ 1801  ls
+ 1802  git clone https://github.com/gSchool/js-native-array-methods.git
+ 1803  ls
+ 1804  cd js-native-array-methods
+ 1805  atom .
+ 1806  npm install
+ 1807  npm test
+ 1808  ls
+ 1809  atom .
+ 1810  ..
+ 1811  ls
+ 1812  mkdir accumulatorPatturn
+ 1813  ls
+ 1814  cd accumulatorPatturn
+ 1815  touch map.js
+ 1816  atom .
+ 1817  node map.js
+ 1818  ..
+ 1819  l
+ 1820  cd js-native-array-methods
+ 1821  l
+ 1822  cat src/every.js
+ 1823  atom .
+ 1824  ls
+ 1825  npm test
+ 1826  node filter.js
+ 1827  npm test
+ 1828  node filter.js
+ 1829  node every.js
+ 1830  npm test
+ 1831  ls
+ 1832  ..
+ 1833  git clone https://github.com/jhernandez89/js-accumulator-assessment.git
+ 1834  ls
+ 1835  cd js-accumulator-assessment
+ 1836  ls
+ 1837  atom .
+ 1838  npm install
+ 1839  ls
+ 1840  npm test
+ 1841  ls
+ 1842  cd galvanize
+ 1843  ls
+ 1844  cd practic
+ 1845  cd practice
+ 1846  ls
+ 1847  cd js-accumulator-assessment/ls
+ 1848  cd js-accumulator-assessment/
+ 1849  ls
+ 1850  atom .
+ 1851  ..
+ 1852  ls
+ 1853  cd js-native-array-methods
+ 1854  ls
+ 1855  atom .
+ 1856  npm test
+ 1857  ls
+ 1858  ..
+ 1859  cd
+ 1860  ls
+ 1861  cd ga
+ 1862  cd galvanize
+ 1863  ls
+ 1864  cd practice
+ 1865  ls
+ 1866  cd lodash
+ 1867  ls
+ 1868  atom .
+ 1869  npm test
+ 1870  ls
+ 1871  ..
+ 1872  ls
+ 1873  cd practice
+ 1874  ls
+ 1875  cd candyCrush
+ 1876  ls
+ 1877  cd ccf-data-structures
+ 1878  ls
+ 1879  atom ..
+ 1880  ls
+ 1881  cd store1
+ 1882  npm test ./store1
+ 1883  node store1
+ 1884  npm test ./store1
+ 1885  node store1
+ 1886  npm test ./store1
+ 1887  ls
+ 1888  ..
+ 1889  ls
+ 1890  ..
+ 1891  ls
+ 1892  ..
+ 1893  ls
+ 1894  cd js-native-array-methods
+ 1895  ls
+ 1896  atom ..
+ 1897  npm test ./store1
+ 1898  ..
+ 1899  ls
+ 1900  cd candyCrush
+ 1901  ls
+ 1902  cd ccf-data-structures/store1
+ 1903  ls
+ 1904  npm test ./store1
+ 1905  ..
+ 1906  ls
+ 1907  cd lodash
+ 1908  atom .
+ 1909  npm test
+ 1910  node lodash.js
+ 1911  npm test
+ 1912  ls
+ 1913  ..
+ 1914  ls
+ 1915  git clone https://github.com/jhernandez89/mocha-chai-assessment.git
+ 1916  cd mocha-chai-assessment
+ 1917  ls
+ 1918  cd .
+ 1919  mkdir myShit
+ 1920  cd myShit
+ 1921  ls
+ 1922  touch yellPhrase.js
+ 1923  mkdir test
+ 1924  cd test
+ 1925  touch yellPhraseTest.js
+ 1926  npm install mocha chai --save-dev
+ 1927  npm init -y
+ 1928  ..
+ 1929  npm install mocha chai --save-dev
+ 1930  npm init -y
+ 1931  ls
+ 1932  cd test
+ 1933  ls
+ 1934  ..
+ 1935  .
+ 1936  mv myShit myTest
+ 1937  ls
+ 1938  rm -rf test
+ 1939  ls
+ 1940  mkdir test
+ 1941  cd test
+ 1942  touch yellPhrase.js
+ 1943  ..
+ 1944  rm -rf myShit
+ 1945  mkdir myTest
+ 1946  cd test
+ 1947  touch yellPhrase.js
+ 1948  mkdir test
+ 1949  ls
+ 1950  cd test
+ 1951  touch yellPhraseTest.js
+ 1952  ls
+ 1953  ..
+ 1954  ls
+ 1955  ..
+ 1956  rm -rf test
+ 1957  ls
+ 1958  cd myTest
+ 1959  touch yellPhrase.js
+ 1960  mkdir test
+ 1961  cd test
+ 1962  touch yellPhraseTest.js
+ 1963  ..
+ 1964  npm install mocha chai --save-dev
+ 1965  npm init -y
+ 1966  ls
+ 1967  cd test
+ 1968  ls
+ 1969  ..
+ 1970  ls
+ 1971  cd myTest
+ 1972  ls
+ 1973  cd test
+ 1974  ls
+ 1975  ..
+ 1976  ls
+ 1977  cat package.json
+ 1978  npm install mocha chai --save-dev
+ 1979  cat package.json
+ 1980  ls
+ 1981  atom .
+ 1982  cd test
+ 1983  ls
+ 1984  ..
+ 1985  atom .
+ 1986  npm test
+ 1987  ls
+ 1988  npm test
+ 1989  mocha
+ 1990  ls
+ 1991  mocha
+ 1992  ls
+ 1993  vim package.json
+ 1994  ls
+ 1995  cd galvanize
+ 1996  ls
+ 1997  cd practice
+ 1998  ls
+ 1999  cd mocha-chai-assessment
+ 2000  ls
+ 2001  cd myTest
+ 2002  ls
+ 2003  npm test
+ 2004  mocha
+ 2005  npm test
+ 2006  ls
+ 2007  cd galvanize/practice/lodash
+ 2008  ls
+ 2009  atom lodash.js
+ 2010  npm test
+ 2011  ..
+ 2012  ls
+ 2013  cd lodash
+ 2014  ls
+ 2015  atom .
+ 2016  ls
+ 2017  npm test
+ 2018  ls
+ 2019  ..
+ 2020  ls
+ 2021  cd  mocha-chai-assessment
+ 2022  ls
+ 2023  atom .
+ 2024  mkdir exerciseToday
+ 2025  ls
+ 2026  cd exerciseToday
+ 2027  ls
+ 2028  cd galvanize
+ 2029  ls
+ 2030  mkdir masterTrack
+ 2031  ls
+ 2032  cd masterTrack
+ 2033  ls
+ 2034  mkdir Finished
+ 2035  mkdir notFinished
+ 2036  ls
+ 2037  cd notFinished
+ 2038  ls
+ 2039  mkdir codeCompleted
+ 2040  ls
+ 2041  mkdir codeToBeCompleted
+ 2042  ls
+ 2043  ..
+ 2044  ls
+ 2045  cd projects/
+ 2046  ls
+ 2047  ..
+ 2048  cd practice
+ 2049  ls
+ 2050  cp function-assessment-js
+ 2051  mv function-assessment-js ..
+ 2052  ls
+ 2053  ..
+ 2054  ls
+ 2055  mv function-assessment-js ..
+ 2056  ..
+ 2057  mv function-assessment-js galvanize
+ 2058  cd galvanize
+ 2059  ls
+ 2060  mv function-assessment-js masterTrack
+ 2061  cd masterTrack
+ 2062  ls
+ 2063  mv function-assessment-js notFinished
+ 2064  ls
+ 2065  cd notFinished
+ 2066  ls
+ 2067  mv function-assessment-js codeToBeCompleted
+ 2068  cd codeToBeCompleted
+ 2069  ls
+ 2070  git clone https://github.com/gSchool/git-branch-exercise.git
+ 2071  ls
+ 2072  git clone https://github.com/gSchool/big-o-assessment.git
+ 2073  git clone https://github.com/gSchool/js-accumulator-assessment.git
+ 2074  ls
+ 2075  cd function-assessment-js
+ 2076  ls
+ 2077  atom .
+ 2078  ls
+ 2079  npm test
+ 2080  ..
+ 2081  ls
+ 2082  ..
+ 2083  npm install
+ 2084  brew install node
+ 2085  ls
+ 2086  npm install
+ 2087  brew update
+ 2088  ls
+ 2089  rm -rf node_modules
+ 2090  ls
+ 2091  clear
+ 2092  ls
+ 2093  cd notFinished
+ 2094  ls
+ 2095  cd codeToBeCompleted
+ 2096  ls
+ 2097  npm test
+ 2098  cd function-assessment-js
+ 2099  ls
+ 2100  npm test
+ 2101  npm install
+ 2102  ls
+ 2103  node greet.js
+ 2104  node people.js
+ 2105  node pizza.js
+ 2106  node pizzas.js
+ 2107  node not_your_nachos.js
+ 2108  clear
+ 2109  node people.js
+ 2110  node pizza.js
+ 2111  clear
+ 2112  node people.js
+ 2113  node not_your_nachos.js
+ 2114  node pizzas.js
+ 2115  node greet.js
+ 2116  ls
+ 2117  mv function-assessment-js ..
+ 2118  ls
+ 2119  ..
+ 2120  ls
+ 2121  cd function-assessment-js ..
+ 2122  mv function-assessment-js ../codeCompleted
+ 2123  ..
+ 2124  ls
+ 2125  cd codeCompleted
+ 2126  ls
+ 2127  cd function-assessment-js ..
+ 2128  cd function-assessment-js
+ 2129  ls
+ 2130  node pizzas.js
+ 2131  node people.js
+ 2132  node greet.js
+ 2133  node not_your_nachos.js
+ 2134  node people.js
+ 2135  ls
+ 2136  touch peopleTwo.js
+ 2137  vim peopleTwo.js
+ 2138  node peopleTwo.js
+ 2139  atom .
+ 2140  node people.js
+ 2141  cat people.js
+ 2142  node people.js
+ 2143  ls
+ 2144  ..
+ 2145  ls
+ 2146  codeToBeCompleted
+ 2147  ls
+ 2148  cd function-assessment-js/
+ 2149  ls
+ 2150  cat people.js
+ 2151  ..
+ 2152  ls
+ 2153  rm npm-debug.log
+ 2154  ls
+ 2155  rm -rf function-assessment-js
+ 2156  ls
+ 2157  cd git-branch-exercise
+ 2158  ls
+ 2159  atom .
+ 2160  ls
+ 2161  git clone https://github.com/jhernandez89/js-native-array-methods.git
+ 2162  ls
+ 2163  cd js-native-array-methods
+ 2164  git checkout -b landing-page
+ 2165  touch index.html
+ 2166  vim index.html
+ 2167  cat index.html
+ 2168  git add -A
+ 2169  ls
+ 2170  git status
+ 2171  git commit -m "this stuff"
+ 2172  git push -u origin landing-page
+ 2173  vim index.html
+ 2174  git commit -m "super awesome"
+ 2175  git add -A
+ 2176  git commit -m "super awesome"
+ 2177  git checkout master
+ 2178  git merge landing-page
+ 2179  git push -u origin master
+ 2180  ls
+ 2181  ..
+ 2182  ls
+ 2183  rm -rf js-native-array-methods
+ 2184  ls
+ 2185  ..
+ 2186  ls
+ 2187  cd js-accumulator-assessment
+ 2188  ls
+ 2189  atom .
+ 2190  brew install node
+ 2191  clear
+ 2192  npm test
+ 2193  npm install
+ 2194  npm test
+ 2195  ls
+ 2196  ..
+ 2197  ls
+ 2198  ..
+ 2199  ls
+ 2200  cd practice
+ 2201  ls
+ 2202  cd lodash
+ 2203  ls
+ 2204  atom .
+ 2205  ls
+ 2206  npm test
+ 2207  touch myTest.js
+ 2208  node myTest.js
+ 2209  ls
+ 2210  cd galvanize
+ 2211  ls
+ 2212  cd practice
+ 2213  ls
+ 2214  ..
+ 2215  cd masterTrack
+ 2216  ls
+ 2217  cd notFinished
+ 2218  ls
+ 2219  cd codeToBeCompleted
+ 2220  ls
+ 2221  cd js-accumulator-assessment
+ 2222  atom .
+ 2223  ls
+ 2224  npm test
+ 2225  ls
+ 2226  git commit
+ 2227  git add -A
+ 2228  ls
+ 2229  git commit
+ 2230  git add -A
+ 2231  git status
+ 2232  git add -A
+ 2233  git commit -m "Lodash answers"
+ 2234  git push -u origin master
+ 2235  git status
+ 2236  ls
+ 2237  ..
+ 2238  ls
+ 2239  mkdir lodashTwo
+ 2240  cd lodashTwo
+ 2241  ls
+ 2242  git clone https://github.com/jhernandez89/lodash.git
+ 2243  atom lodash.js
+ 2244  ls
+ 2245  ls -a
+ 2246  cd lodash
+ 2247  ls
+ 2248  atom lodash.js
+ 2249  npm test
+ 2250  npm install
+ 2251  npm test
+ 2252  git add -A
+ 2253  git commit -m "Lodash answers"
+ 2254  git push -u origin master
+ 2255  ls
+ 2256  cd galvanize
+ 2257  s
+ 2258  ls
+ 2259  cd practice
+ 2260  ls
+ 2261  mkdir sports
+ 2262  cd sports
+ 2263  git clone https://github.com/jhernandez89/galvanize-sports.git
+ 2264  ls
+ 2265  cd galvanize-sports
+ 2266  ls
+ 2267  atom .
+ 2268  ls
+ 2269  ..
+ 2270  ls
+ 2271  ll
+ 2272  ..
+ 2273  ls
+ 2274  cd lodash
+ 2275  ls
+ 2276  atom .
+ 2277  ls
+ 2278  ..
+ 2279  ls
+ 2280  .
+ 2281  ..
+ 2282  ls
+ 2283  cd practice
+ 2284  ls
+ 2285  cd sports
+ 2286  ls
+ 2287  cd galvanize-sports
+ 2288  ls
+ 2289  atom .
+ 2290  npm install
+ 2291  npm test
+ 2292  exit
+ 2293  ls
+ 2294  cd pr
+ 2295  cd practice
+ 2296  cd galvanize
+ 2297  ls
+ 2298  cd practice
+ 2299  ls
+ 2300  cd sports
+ 2301  ls
+ 2302  cd galvanize-sports
+ 2303  ls
+ 2304  npm test
+ 2305  sudo npm test
+ 2306  ls
+ 2307  cd galvanize
+ 2308  ls
+ 2309  cd practice
+ 2310  ls
+ 2311  cd sports
+ 2312  ls
+ 2313  cd galvanize-sports/
+ 2314  cat objects.js
+ 2315  ls
+ 2316  .load galvanize_sports.js
+ 2317  node
+ 2318  ls
+ 2319  node
+ 2320  ls
+ 2321  node
+ 2322  ls
+ 2323  node
+ 2324  .load galvanize_sports.js
+ 2325  node
+ 2326  ls
+ 2327  node
+ 2328  ls
+ 2329  node
+ 2330  npm test
+ 2331  git status
+ 2332  git add -A
+ 2333  git commit -m "on Tax"
+ 2334  npm test
+ 2335  ls
+ 2336  atom .
+ 2337  npm test
+ 2338  node
+ 2339  npm test
+ 2340  ls
+ 2341  cc galvanize
+ 2342  cd galvanize
+ 2343  ls
+ 2344  cd practice/sports/
+ 2345  ls
+ 2346  cd galvanize-sports
+ 2347  ls
+ 2348  mocha
+ 2349  npm test
+ 2350  ls
+ 2351  cd galvanize/practice/sports/galvanize-sports
+ 2352  ls
+ 2353  npm install -g mocha
+ 2354  mocha
+ 2355  mocha --help
+ 2356  mocha -w
+ 2357  mocha
+ 2358  ls
+ 2359  git status
+ 2360  mocha
+ 2361  git status
+ 2362  git add -A
+ 2363  git status
+ 2364  git add -A
+ 2365  git status
+ 2366  git commit -m "Completed purchasing system"
+ 2367  ls
+ 2368  git status
+ 2369  git push -u origin master
+ 2370  git status
+ 2371  git add -A
+ 2372  git status
+ 2373  git add -A
+ 2374  git commit -m "Completed purchasing system"
+ 2375  git push -u origin master
+ 2376  ls
+ 2377  ..
+ 2378  ls
+ 2379  ..
+ 2380  ls
+ 2381  cd lion
+ 2382  ls
+ 2383  cd js-scope-and-iife-assessment
+ 2384  ls
+ 2385  atom .
+ 2386  git status
+ 2387  git add -A
+ 2388  git commit -m "Added comments to describe the processes of each function"
+ 2389  git push -u origin master
+ 2390  ls
+ 2391  ..
+ 2392  ls
+ 2393  ..
+ 2394  ls
+ 2395  ..
+ 2396  ls
+ 2397  cd masterTrack
+ 2398  ls
+ 2399  cd notFinished
+ 2400  ls
+ 2401  codeToBeCompleted
+ 2402  ls
+ 2403  cd big-o-assessment
+ 2404  atom .
+ 2405  ls
+ 2406  ..
+ 2407  ls
+ 2408  ls practice
+ 2409  cd bigO
+ 2410  bigO
+ 2411  ls
+ 2412  cd practice/bigO
+ 2413  ls
+ 2414  cd big-o-assessment
+ 2415  ls
+ 2416  ..
+ 2417  ls
+ 2418  cd sports
+ 2419  ls
+ 2420  cd galvanize-sports
+ 2421  ls
+ 2422  atom .
+ 2423  ls
+ 2424  ..
+ 2425  mkdir cards
+ 2426  cd cards
+ 2427  touch cards.js
+ 2428  atom cards.js
+ 2429  touch battleship.js
+ 2430  atom battleship.js
+ 2431  touch pinball.js
+ 2432  atom .
+ 2433  ls
+ 2434  atom cards.js
+ 2435  ls
+ 2436  ..
+ 2437  ls
+ 2438  cd masterTrack
+ 2439  ls
+ 2440  cd notFinished
+ 2441  ls
+ 2442  cd codeToBeCompleted
+ 2443  ls
+ 2444  cd js-accumulator-assessment
+ 2445  atom .
+ 2446  npm test
+ 2447  ls
+ 2448  ..
+ 2449  touch howJavascriptWorks.ms
+ 2450  ls
+ 2451  rm howJavascriptWorks.ms
+ 2452  ls
+ 2453  touch howJavascriptWorks.md
+ 2454  atom howJavascriptWorks.md
+ 2455  ls
+ 2456  ..
+ 2457  ls
+ 2458  ..
+ 2459  ls
+ 2460  cd pra
+ 2461  cd practice/
+ 2462  ls
+ 2463  cd sports
+ 2464  ls
+ 2465  cd galvanize-sports
+ 2466  ls
+ 2467  atom .
+ 2468  npm test
+ 2469  git add -A
+ 2470  git commit -m "used iteration to find items"
+ 2471  git push -u origin master
+ 2472  npm test
+ 2473  ..
+ 2474  cd practice/
+ 2475  ls
+ 2476  git clone https://github.com/jhernandez89/dom-assessment.git
+ 2477  ls
+ 2478  cd dom-assessment
+ 2479  atom .
+ 2480  ls
+ 2481  ..
+ 2482  ls
+ 2483  git clone https://github.com/jhernandez89/semantic-html-exercise.git
+ 2484  ls
+ 2485  cd semantic-html-exercise
+ 2486  ls
+ 2487  atom .
+ 2488  ls
+ 2489  ..
+ 2490  ls
+ 2491  cd dom-assessment
+ 2492  ls
+ 2493  atom README.md
+ 2494  ls
+ 2495  ..
+ 2496  ls
+ 2497  cd masterTrack
+ 2498  ls
+ 2499  ..
+ 2500  ls
+ 2501  cd notFinished
+ 2502  ls
+ 2503  cd codeToBeCompleted
+ 2504  ls
+ 2505  atom howJavascriptWorks.md
+ 2506  ls
+ 2507  ..
+ 2508  ls
+ 2509  cd codeToBeCompleted
+ 2510  atom big-o-assessment
+ 2511  ls
+ 2512  ..
+ 2513  ls
+ 2514  .
+ 2515  ..
+ 2516  ls
+ 2517  cd projects
+ 2518  ls
+ 2519  ..
+ 2520  cd pra
+ 2521  cd practice
+ 2522  ls
+ 2523  cd dom-assessment
+ 2524  ls
+ 2525  atom readme.md
+ 2526  ls
+ 2527  ..
+ 2528  ls
+ 2529  ..
+ 2530  ls
+ 2531  cd masterTrack
+ 2532  ls
+ 2533  cd notFinished
+ 2534  ls
+ 2535  cd codeToBeCompleted
+ 2536  ls
+ 2537  atom howJavascriptWorks.md
+ 2538  ls
+ 2539  .
+ 2540  ...
+ 2541  ..
+ 2542  ls
+ 2543  cd practice
+ 2544  mkdir AJAX
+ 2545  cd AJAX
+ 2546  git clone https://github.com/jhernandez89/ajax-assessment.git
+ 2547  ls
+ 2548  cd ajax-assessment
+ 2549  ls
+ 2550  atom .
+ 2551  ls
+ 2552  git add -A
+ 2553  git commit -m "Ajax answers"
+ 2554  git push -u origin master
+ 2555  ls
+ 2556  ..
+ 2557  ls
+ 2558  cd practice
+ 2559  ls
+ 2560  ..
+ 2561  ls
+ 2562  cd practice
+ 2563  mkdir myWebsite
+ 2564  cd myWebsite
+ 2565  touch myTest.html
+ 2566  atom myTest.html
+ 2567  $ npm install -g firebase-tools\n
+ 2568  npm install -g firebase-tools
+ 2569  firebase login
+ 2570  firebase init
+ 2571  firebase deploy
+ 2572  firebase init
+ 2573  firebase login
+ 2574  firebase init
+ 2575  ..
+ 2576  ls
+ 2577  mkdir myWebsiteTwo
+ 2578  cd myWebsiteTwo
+ 2579  ls
+ 2580  firebase deploy
+ 2581  npm install -g firebase-tools
+ 2582  firebase login
+ 2583  firebase init
+ 2584  firebase deploy
+ 2585  ..
+ 2586  ls
+ 2587  rm -rf myWebsite
+ 2588  rm -rf myWebsiteTwo
+ 2589  ls
+ 2590  mkdir myWebsite
+ 2591  cd myWebsite
+ 2592  ls
+ 2593  ..
+ 2594  ls
+ 2595  cd AJAX
+ 2596  ..
+ 2597  mkdir playGround
+ 2598  cd mplayGround
+ 2599  ls
+ 2600  mkdir funTimes
+ 2601  cd funTimes
+ 2602  git init
+ 2603  mkdir firebase
+ 2604  cd firebase
+ 2605  git init
+ 2606  git remote add origin https://github.com/jhernandez89/firebase.git
+ 2607  git push -u origin master
+ 2608  git add -A
+ 2609  git status
+ 2610  touch index.html
+ 2611  atom .
+ 2612  git add -A
+ 2613  git commit -m "my test"
+ 2614  git push -u origin master
+ 2615  npm install -g firebase-tools
+ 2616  firebase login
+ 2617  firebase init
+ 2618  git init
+ 2619  firebase init
+ 2620  ls
+ 2621  cd public
+ 2622  ls
+ 2623  ..
+ 2624  la
+ 2625  firebase deploy
+ 2626  cd public
+ 2627  firebase deploy
+ 2628  ..
+ 2629  ls
+ 2630  mv index.html public/
+ 2631  atom .
+ 2632  firebase deploy
+ 2633  ..
+ 2634  ls
+ 2635  cd ..
+ 2636  ls
+ 2637  cd masterTrack
+ 2638  ls
+ 2639  cd notFinished
+ 2640  ls
+ 2641  cd codeToBeCompleted
+ 2642  ls
+ 2643  atom howJavascriptWorks.md
+ 2644  LS
+ 2645  ls
+ 2646  ..
+ 2647  cd codeToBeCompleted
+ 2648  cd describeJavascript
+ 2649  mkdir describeJavascript
+ 2650  cd describeJavascript
+ 2651  ls
+ 2652  git clone https://github.com/gSchool/js-scope-and-iife-assessment.git
+ 2653  git clone https://github.com/gSchool/js-higher-order-functions-assessment.git
+ 2654  git clone https://github.com/gSchool/js-native-array-methods.git
+ 2655  git clone https://github.com/gSchool/exercise-js-scope-hoisting-closure-higherorder.git
+ 2656  ls
+ 2657  cd js-scope-and-iife-assessment
+ 2658  atom .
+ 2659  ..
+ 2660  ls
+ 2661  cd js-native-array-methods
+ 2662  ..
+ 2663  cd js-higher-order-functions-assessment
+ 2664  ls
+ 2665  atom .
+ 2666  npm install
+ 2667  npm -g install
+ 2668  npm test
+ 2669  ls
+ 2670  ..
+ 2671  ls
+ 2672  cd js-native-array-methods
+ 2673  atom .
+ 2674  ..
+ 2675  ls
+ 2676  cd practice
+ 2677  cd js-native-array-methods
+ 2678  atom .
+ 2679  npm test
+ 2680  ls
+ 2681  npm test
+ 2682  ls
+ 2683  ..
+ 2684  cd practice
+ 2685  ls
+ 2686  cd cards
+ 2687  ls
+ 2688  ..
+ 2689  ls
+ 2690  ..
+ 2691  ls
+ 2692  mkdir date
+ 2693  cd date
+ 2694  mkdir weekThree
+ 2695  ls
+ 2696  ..
+ 2697  ls
+ 2698  cd masterTrack
+ 2699  cd codeToBeCompleted
+ 2700  ls
+ 2701  cd notFinished
+ 2702  ls
+ 2703  cd codeToBeCompleted
+ 2704  ls
+ 2705  cd big-o-assessment
+ 2706  atom .
+ 2707  ..
+ 2708  ls
+ 2709  ..
+ 2710  ls
+ 2711  ..
+ 2712  ls
+ 2713  ..
+ 2714  ls
+ 2715  cd practice
+ 2716  ls
+ 2717  cd lodash
+ 2718  ls
+ 2719  atom .
+ 2720  ..
+ 2721  ls
+ 2722  cd mocha-chai-assessment
+ 2723  ls
+ 2724  atom .
+ 2725  npm test
+ 2726  npm install
+ 2727  npm test
+ 2728  ls
+ 2729  ..
+ 2730  ls
+ 2731  mkdir mochaAsses
+ 2732  rm mochAsses
+ 2733  rm mochaAsses
+ 2734  rm -rf mochaAsses
+ 2735  clear
+ 2736  mkdir mochaTest
+ 2737  cd mocha test
+ 2738  cd mochaTest
+ 2739  touch codingPart
+ 2740  mkdir test
+ 2741  cd test
+ 2742  touch codingPartTest.js
+ 2743  ..
+ 2744  ls
+ 2745  ..
+ 2746  git clone https://github.com/gSchool/semantic-html-exercise.git
+ 2747  cd semantic-html-exercise
+ 2748  ls
+ 2749  atom.
+ 2750  atom .
+ 2751  ..
+ 2752  ls
+ 2753  ..
+ 2754  ls
+ 2755  cd date
+ 2756  ls
+ 2757  cd weekThree
+ 2758  ls
+ 2759  git clone https://github.com/gSchool/simple-site-project.git
+ 2760  ls
+ 2761  cd simple-site-project
+ 2762  atom .
+ 2763  ls
+ 2764  open readme.md
+ 2765  ls
+ 2766  mkdir codwars
+ 2767  cd codwars
+ 2768  ls
+ 2769  touch index.html
+ 2770  ls
+ 2771  touch index.js
+ 2772  atom index.js
+ 2773  ls
+ 2774  ..
+ 2775  ls
+ 2776  git clone https://github.com/jhernandez89/warmups.git
+ 2777  ls
+ 2778  git warmups
+ 2779  cd warmups
+ 2780  ls
+ 2781  cd w08/w8-t-truncate
+ 2782  ls
+ 2783  npm install
+ 2784  npm test
+ 2785  atom .
+ 2786  mocha
+ 2787  ls
+ 2788  ..
+ 2789  ls
+ 2790  ..
+ 2791  ls
+ 2792  ..
+ 2793  ...
+ 2794  ls
+ 2795  cd practice
+ 2796  ls
+ 2797  cd codwars
+ 2798  ls
+ 2799  cd
+ 2800  ..
+ 2801  ls
+ 2802  cd jeffhernandez/Documents
+ 2803  ls
+ 2804  ..
+ 2805  ls
+ 2806  cd galvanize
+ 2807  ls
+ 2808  cd date
+ 2809  ls
+ 2810  cd weekThree
+ 2811  ls
+ 2812  cd warmups
+ 2813  ls
+ 2814  cd w08
+ 2815  ls
+ 2816  cd w8-t-truncate
+ 2817  ls
+ 2818  npm test
+ 2819  ..
+ 2820  ls
+ 2821  ..
+ 2822  ls
+ 2823  ..
+ 2824  ls
+ 2825  ..
+ 2826  ls
+ 2827  cd practice
+ 2828  ls
+ 2829  cd
+ 2830  ls
+ 2831  ..
+ 2832  ls
+ 2833  ..
+ 2834  cd users
+ 2835  ls
+ 2836  cd jeffhernandez
+ 2837  ls
+ 2838  cd galvanize
+ 2839  ls
+ 2840  cd practice
+ 2841  cd warmups
+ 2842  ls
+ 2843  cd warmup
+ 2844  ..
+ 2845  ls
+ 2846  cd date
+ 2847  ls
+ 2848  cd weekThree
+ 2849  ls
+ 2850  cd warmups
+ 2851  ls
+ 2852  cd w08
+ 2853  ls
+ 2854  cd w8-t-truncate
+ 2855  ls
+ 2856  cd test
+ 2857  ..
+ 2858  npm test
+ 2859  ..
+ 2860  ls
+ 2861  ..
+ 2862  git clone https://github.com/jhernandez89/warmups.git
+ 2863  git clone https://github.com/jhernandez89/css-assessment.git
+ 2864  atom .
+ 2865  ls
+ 2866  ..
+ 2867  ls weekThree
+ 2868  mkdir play
+ 2869  cd play
+ 2870  touch index.js
+ 2871  touch main.css
+ 2872  atom .
+ 2873  open index.js
+ 2874  rm index.js
+ 2875  ls
+ 2876  touch index.html
+ 2877  open index.html
+ 2878  ..
+ 2879  ls
+ 2880  cd weekThree
+ 2881  ls
+ 2882  git clone https://github.com/jhernandez89/http-assessment.git
+ 2883  atom .
+ 2884  ls
+ 2885  cd http-assessment
+ 2886  atom .
+ 2887  ls
+ 2888  ping google.com
+ 2889  ls
+ 2890  ..
+ 2891  ls
+ 2892  cd simple-site-project
+ 2893  atom .
+ 2894  ls
+ 2895  ..
+ 2896  ls
+ 2897  cd warmups
+ 2898  ls
+ 2899  cd w08
+ 2900  ls
+ 2901  cd w8-t-truncate
+ 2902  ls
+ 2903  atom .
+ 2904  ls
+ 2905  ..
+ 2906  ls
+ 2907  cd weekThree
+ 2908  ls
+ 2909  cd simple-site-project
+ 2910  ls
+ 2911  touch index.js
+ 2912  touch main.css
+ 2913  atom.
+ 2914  ls
+ 2915  rm -rf codwars
+ 2916  ls
+ 2917  cd img
+ 2918  ls
+ 2919  open layout.png
+ 2920  ..
+ 2921  ls
+ 2922  atom .
+ 2923  ls
+ 2924  rm index.js
+ 2925  touch index.html
+ 2926  open index.html
+ 2927  ls
+ 2928  ..
+ 2929  ls
+ 2930  ..
+ 2931  ls
+ 2932  cd
+ 2933  cd date
+ 2934  ls
+ 2935  cd galvanize
+ 2936  cd firstProject
+ 2937  ls
+ 2938  cd masterTrack
+ 2939  ls
+ 2940  cd not finished
+ 2941  cd notFinished
+ 2942  ls
+ 2943  cd codeToBeCompleted
+ 2944  ls
+ 2945  ..
+ 2946  ls
+ 2947  cd galvanize
+ 2948  ls
+ 2949  cd practice
+ 2950  ls
+ 2951  cd playGround
+ 2952  ls
+ 2953  ..
+ 2954  cd cards
+ 2955  ls
+ 2956  atom .
+ 2957  ls
+ 2958  ..
+ 2959  ls
+ 2960  cd galvanize
+ 2961  ls
+ 2962  cd
+ 2963  ls
+ 2964  cd galvanize
+ 2965  ls
+ 2966  cd date
+ 2967  ls
+ 2968  cd weekThree
+ 2969  git clone https://github.com/jhernandez89/jQuery-assessment.git
+ 2970  ls
+ 2971  cd jQuery-assessment
+ 2972  ls
+ 2973  atom .
+ 2974  ls
+ 2975  ..
+ 2976  ls
+ 2977  cd simple-site-project
+ 2978  ls
+ 2979  atom .
+ 2980  open index.html
+ 2981  ls
+ 2982  ..
+ 2983  git clone https://github.com/jhernandez89/css-framework-assessment.git
+ 2984  atom .
+ 2985  ls
+ 2986  cd css-framework-assessment
+ 2987  ls
+ 2988  atom .
+ 2989  open index.html
+ 2990  ..
+ 2991  ls
+ 2992  cd simple-site-project
+ 2993  ls
+ 2994  open index.html
+ 2995  ls
+ 2996  ..
+ 2997  ls
+ 2998  cd simple-site-project
+ 2999  ls
+ 3000  git add -A
+ 3001  git status
+ 3002  git commit -m "DiGiorno Website"
+ 3003  git push -u origin master
+ 3004  ls
+ 3005  ..
+ 3006  ls
+ 3007  mkdir weekFour
+ 3008  ls
+ 3009  cd weekFour
+ 3010  ls
+ 3011  git clone https://github.com/jhernandez89/galvanize-personnel.git
+ 3012  ls
+ 3013  cd galvanize-personnel
+ 3014  atom .
+ 3015  npm install -g eslint
+ 3016  eslint init
+ 3017  ls
+ 3018  touch .eslintrc
+ 3019  atom .eslintrc
+ 3020  npm init
+ 3021  npm install --save-dev eslint eslint-config-airbnb\n
+ 3022  ls
+ 3023  touch .eslintrc
+ 3024  atom .
+ 3025  npm install -g eslint eslint-config-airbnb\n
+ 3026  npm install -g eslint-plugin-import
+ 3027  rm fr node_modules
+ 3028  rm -fr node_modules
+ 3029  rm package.json
+ 3030  rm .eslintrc
+ 3031  npm i -g eslint [eslint-plugins]
+ 3032  npm info "eslint-config-airbnb@latest" peerDependencies\n
+ 3033  npm install -g eslint-plugin-jsx-a11y
+ 3034  npm install -g eslint-plugin-import
+ 3035  npm install -g 
+ 3036  npm install -g eslint-plugin-react
+ 3037  npm install -g eslint
+ 3038  rm .eslintrc
+ 3039  (\n  export PKG=eslint-config-airbnb;\n  npm info "$PKG@latest" peerDependencies --json | command sed 's/[\{\},]//g ; s/: /@/g' | xargs npm install -g "$PKG@latest"\n)
+ 3040  touch .eslintrc
+ 3041  atom .eslintrc
+ 3042  ls
+ 3043  npm init
+ 3044  ls
+ 3045  cd galvanize
+ 3046  ls
+ 3047  cd date
+ 3048  ls
+ 3049  cd weekFour
+ 3050  ls
+ 3051  cd galvanize-personnel
+ 3052  ls
+ 3053  npm init
+ 3054  npm test
+ 3055  ls
+ 3056  npm install -g firebase-tools
+ 3057  firebase init
+ 3058  firebase deploy
+ 3059  git status
+ 3060  git add -A
+ 3061  git status
+ 3062  git commit -m "finished code"
+ 3063  firebase init
+ 3064  firebase deploy
+ 3065  ls
+ 3066  rm database.rules.json
+ 3067  rm .firebaserc
+ 3068  rm firebase.json
+ 3069  rm -rf yes
+ 3070  ls
+ 3071  firebase init
+ 3072  firebase deploy
+ 3073  ls
+ 3074  rm -rf public
+ 3075  firebase init
+ 3076  firebase deploy
+ 3077  ls
+ 3078  rm -rf public
+ 3079  rm firebase.json
+ 3080  rm database.rules.json
+ 3081  ls
+ 3082  ..
+ 3083  ls
+ 3084  firebase init
+ 3085  firebase deploy
+ 3086  ls
+ 3087  rm firebase.json
+ 3088  cd galvanize-personnel
+ 3089  ls
+ 3090  firebase deploy
+ 3091  ls
+ 3092  rm 404.html
+ 3093  rm .firebaserc
+ 3094  firebase init
+ 3095  firebase deploy
+ 3096  ls
+ 3097  rm -rf galvanize-personnel
+ 3098  rm database.rules.json
+ 3099  rm firebase.json
+ 3100  rm .firebaserc
+ 3101  ls
+ 3102  ..
+ 3103  ls
+ 3104  ..
+ 3105  ls
+ 3106  cd weekFour
+ 3107  mkdir firebaseSite
+ 3108  cd firebaseSite
+ 3109  ls
+ 3110  firebase init
+ 3111  ls
+ 3112  cd public
+ 3113  ls
+ 3114  ..
+ 3115  ls
+ 3116  firebase deploy
+ 3117  firebase serve
+ 3118  ls
+ 3119  atom .
+ 3120  ls
+ 3121  ..
+ 3122  cd weekFour
+ 3123  ls
+ 3124  cd galvanize-personnel
+ 3125  ls
+ 3126  atom .
+ 3127  ls
+ 3128  git add -A
+ 3129  git commit -m "finished product"
+ 3130  git push -u origin master
+ 3131  ls
+ 3132  ..
+ 3133  ls
+ 3134  ..
+ 3135  weekThree
+ 3136  ls
+ 3137  cd simple-site-project
+ 3138  git push -u origin master
+ 3139  git remote rm origin
+ 3140  git push -u origin master
+ 3141  git remote add origin https://github.com/jhernandez89/simple-site-project.git
+ 3142  git push -u origin master
+ 3143  atom .
+ 3144  ls
+ 3145  ..
+ 3146  ls
+ 3147  jQuery-assessment
+ 3148  ls
+ 3149  atom .
+ 3150  ls
+ 3151  ..
+ 3152  ls
+ 3153  ..
+ 3154  cd weekFour
+ 3155  git clone https://github.com/jhernandez89/agile-concepts-assessment.git
+ 3156  ls agile-concepts-assessment
+ 3157  atom .
+ 3158  ls
+ 3159  cd agile-concepts-assessment
+ 3160  atom .
+ 3161  git add -A
+ 3162  git commit -m "agile answers"
+ 3163  git push -u origin master
+ 3164  ls
+ 3165  ..
+ 3166  cd weekFour
+ 3167  ls
+ 3168  ls galvanize-personnel
+ 3169  atom .
+ 3170  ls
+ 3171  ..
+ 3172  ls
+ 3173  cd weekFour
+ 3174  ls
+ 3175  ..
+ 3176  ls
+ 3177  cd weekThree
+ 3178  ls
+ 3179  cd DiGiorno
+ 3180  mkdir DiGiorno
+ 3181  cd DiGiorno
+ 3182  ls
+ 3183  firebase init
+ 3184  ls
+ 3185  ..
+ 3186  ls
+ 3187  cd simple-site-project
+ 3188  atom .
+ 3189  firebase deploy
+ 3190  ls
+ 3191  ..
+ 3192  ls
+ 3193  cd simple-site-project
+ 3194  ls
+ 3195  ..
+ 3196  ls
+ 3197  cd DiGiorno
+ 3198  ls
+ 3199  cd public
+ 3200  firebase deploy
+ 3201  ..
+ 3202  mkdir myWebsite
+ 3203  ls
+ 3204  cd myWebsite
+ 3205  ls
+ 3206  ..
+ 3207  la
+ 3208  cd DiGiorno
+ 3209  ls
+ 3210  cd public
+ 3211  ls
+ 3212  atom .
+ 3213  firebase deploy
+ 3214  ls
+ 3215  ..
+ 3216  cd weekFour
+ 3217  git clone https://github.com/jhernandez89/prototype-this-assessment.git
+ 3218  cd prototype-this-assessment
+ 3219  atom .
+ 3220  ls
+ 3221  atom README.md
+ 3222  ls
+ 3223  ..
+ 3224  ls
+ 3225  cd practice
+ 3226  ls
+ 3227  cd mocha-chai-assessment
+ 3228  ls
+ 3229  atom .
+ 3230  ..
+ 3231  mkdir mochaStuff
+ 3232  cd mochaStuff
+ 3233  git clone https://github.com/gSchool/mocha-chai-assessment.git
+ 3234  atom .
+ 3235  npm init -y
+ 3236  npm install mocha chai --save-dev
+ 3237  ls
+ 3238  ..
+ 3239  ls
+ 3240  cd mocha-chai-assessment
+ 3241  atom .
+ 3242  ..
+ 3243  ls
+ 3244  cd mochaStuff
+ 3245  ls
+ 3246  npm test
+ 3247  mocha
+ 3248  ..
+ 3249  ls
+ 3250  cd practice
+ 3251  cd mochaStuff
+ 3252  ls
+ 3253  npm test
+ 3254  ls
+ 3255  ..
+ 3256  ls
+ 3257  cd mocha-chai-assessment
+ 3258  npm test
+ 3259  ls
+ 3260  ..
+ 3261  ls
+ 3262  cd lodash
+ 3263  ls
+ 3264  cd myTest.js
+ 3265  atom myTest.html
+ 3266  ..
+ 3267  ls
+ 3268  cd mochaStuff
+ 3269  ls
+ 3270  cd mochaStuff
+ 3271  cd mocha-chai-assessment
+ 3272  ls
+ 3273  npm test
+ 3274  ls
+ 3275  ..
+ 3276  ls
+ 3277  ..
+ 3278  ls
+ 3279  ..
+ 3280  ls
+ 3281  cd dates
+ 3282  ls
+ 3283  cd date
+ 3284  cd weekFour
+ 3285  ls
+ 3286  cd galvanize-personnel
+ 3287  atom .
+ 3288  ls
+ 3289  ..
+ 3290  ls
+ 3291  git clone https://github.com/jhernandez89/ecommerce-project.git
+ 3292  cd ecommerce-project
+ 3293  ls
+ 3294  atom .
+ 3295  ls
+ 3296  ..
+ 3297  rm -rf ecommerce-project
+ 3298  ls
+ 3299  git clone https://github.com/jhernandez89/ecommerce-project.git
+ 3300  ls
+ 3301  cd ecommerce-project
+ 3302  ls
+ 3303  atom .
+ 3304  ls
+ 3305  atom .
+ 3306  git pull https://github.com/jhernandez89/ecommerce-project.git
+ 3307  git add -A
+ 3308  git commit -m "beginning of index"
+ 3309  git pull https://github.com/jhernandez89/ecommerce-project.git
+ 3310  ls
+ 3311  atom .
+ 3312  touch carousel.js
+ 3313  ..
+ 3314  ls
+ 3315  ..
+ 3316  cd galvanize
+ 3317  ls
+ 3318  cd practice
+ 3319  ls slideshow-master
+ 3320  atom .
+ 3321  ls
+ 3322  cd slideshow-master
+ 3323  ls
+ 3324  aotm .
+ 3325  atom .
+ 3326  $ npm install bootstrap@3
+ 3327  npm install bootstrap@3
+ 3328  bower install bootstrap
+ 3329  install bower
+ 3330  npm install bootstrap
+ 3331  ..
+ 3332  ls
+ 3333  cd date
+ 3334  ls
+ 3335  cd weekFour
+ 3336  ls
+ 3337  cd ecommerce-project
+ 3338  npm install bootstrap
+ 3339  npm install bootstrap@3
+ 3340  ls
+ 3341  npm instal jquery
+ 3342  npm install jquery
+ 3343  npm install boostrap
+ 3344  npm install bootstrap
+ 3345  git checkout -u jeffsShit
+ 3346  git checkout jeffsShit
+ 3347  git checkout -b jeffsShit
+ 3348  git pull https://github.com/jhernandez89/ecommerce-project.git
+ 3349  git checkout -b jeffsShit
+ 3350  git add -A
+ 3351  git checkout -b jeffsShit
+ 3352  git commit -m "beginning of index"
+ 3353  git checkout master
+ 3354  git pull https://github.com/jhernandez89/ecommerce-project.git
+ 3355  git checkout jeffsShit 
+ 3356  git checkout jeffsShit
+ 3357  git merge jeffsShit
+ 3358  ls
+ 3359  cd galvanize
+ 3360  ls
+ 3361  cd date
+ 3362  ls
+ 3363  cd weekFour
+ 3364  ls
+ 3365  cd ecommerce-project
+ 3366  ls
+ 3367  git pull https://github.com/jhernandez89/ecommerce-project.git
+ 3368  git checkout jeffsShit
+ 3369  git diff
+ 3370  atom .
+ 3371  git diff
+ 3372  atom .
+ 3373  git checkout jeffsShit
+ 3374  git pull origin master
+ 3375  git diff
+ 3376  open index.html
+ 3377  atom index.html
+ 3378  git merge jeffsShit
+ 3379  git add -A
+ 3380  git merge jeffsShit
+ 3381  git commit -m "ok"
+ 3382  git merge jeffsShit
+ 3383  ls
+ 3384  git add -A
+ 3385  git commit -m "changes"
+ 3386  git pull origin master
+ 3387  ls
+ 3388  git checkout jeffsShit
+ 3389  ls
+ 3390  git checkout jeffsShit
+ 3391  git merge jeffsShit
+ 3392  git add -A
+ 3393  git commit -m "changes"
+ 3394  git checkout jeffsShit
+ 3395  git checkout master
+ 3396  ls
+ 3397  git checkout jeffsShit
+ 3398  git add -A
+ 3399  git commit -m "changes"
+ 3400  git merge jeffsShit
+ 3401  git checkout jeffsShit
+ 3402  git merge master
+ 3403  ls
+ 3404  git checkout master
+ 3405  git checkout jeffsShit
+ 3406  git add -A
+ 3407  git commit -m "changes"
+ 3408  ls
+ 3409  git checkout master
+ 3410  git merge jeffsShit
+ 3411  git add -A
+ 3412  git commit -m "mainpage changes"
+ 3413  git push -u origin master
+ 3414  git pull origin master
+ 3415  git status
+ 3416  git add -A
+ 3417  git commit -m "mainpage changes"
+ 3418  git push -u origin master
+ 3419  git pull origin master
+ 3420  git add -A
+ 3421  git commit
+ 3422  git commit -m "whatever"
+ 3423  git pull origin master
+ 3424  git add -A
+ 3425  git commit -m "whatever"
+ 3426  git pull origin master
+ 3427  git checkout jeffsShit
+ 3428  git add -A
+ 3429  git commit -m "whatever"
+ 3430  git checkout jeffsShit
+ 3431  git merge master
+ 3432  ls
+ 3433  git checkout master
+ 3434  git add -A
+ 3435  git commit -m "whatever"
+ 3436  git push -u origin master
+ 3437  git add -A
+ 3438  git commit -m "links that are really going somewhere"
+ 3439  git push -u origin master
+ 3440  git checkout jeffsShit
+ 3441  git merge master
+ 3442  git checkout master
+ 3443  git pull origin master
+ 3444  git push -u origin master
+ 3445  git add -A
+ 3446  git pull origin master
+ 3447  git commit -m "literally nothing"
+ 3448  git pull origin master
+ 3449  ls
+ 3450  git checkout jeffsShit
+ 3451  git add -A
+ 3452  git commit -m "body and footer"
+ 3453  git checkout jeffsShit
+ 3454  git merge master
+ 3455  git add -A
+ 3456  git commit -m "changes from last night"
+ 3457  git checkout jeffsShit
+ 3458  git merge master
+ 3459  git checkout master
+ 3460  git pull origin master
+ 3461  git checkout jeffsShit
+ 3462  git checkout master
+ 3463  ls
+ 3464  git checkout jeffsShit
+ 3465  git add -A
+ 3466  git commit -m "logo fixing"
+ 3467  git checkout jeffsShit
+ 3468  git checkout master
+ 3469  git commit -m "logo fixing"
+ 3470  git add -A
+ 3471  git commit -m "logo fixing"
+ 3472  git checkout jeffsShit
+ 3473  git checkout master
+ 3474  git add -A
+ 3475  git commit -m "pleaser work"
+ 3476  git commit -m "please work"
+ 3477  git push -u origin master
+ 3478  git log
+ 3479  git pull origin master
+ 3480  git add -A
+ 3481  git commit -m "index work in progress"
+ 3482  git push -u origin master
+ 3483  git checkout jeffsShit
+ 3484  git merge master
+ 3485  git checkout master
+ 3486  git checkout jeffsShit
+ 3487  git merge master
+ 3488  git add -A
+ 3489  git commit -m "working"
+ 3490  git merge master
+ 3491  git checkout jeffsShit
+ 3492  git checkout master
+ 3493  git checkout jeffsShit
+ 3494  git add -A
+ 3495  git commit -m "header finished"
+ 3496  git push -u origin master
+ 3497  git pull origin master
+ 3498  git add -A
+ 3499  git commit -m "header finished"
+ 3500  git push -u origin master
+ 3501  git branch -m jeffsShit jeffsBranch
+ 3502  git add -A
+ 3503  git commit -m "header finished"
+ 3504  git push -u origin master
+ 3505  git push -u origin jeffsBranch
+ 3506  git add -A
+ 3507  git commit -m "header finished with errors fixed"
+ 3508  git add -A
+ 3509  git commit -m "header finished with errors fixed"
+ 3510  git push -u origin jeffsBranch
+ 3511  ls
+ 3512  git add -a
+ 3513  git add -A
+ 3514  git commit -m "index close to done"
+ 3515  git status
+ 3516  git add -A
+ 3517  git commit -m "Jeff's meeting commit"
+ 3518  git push -u origin jeffsBranch
+ 3519  git fetch jeffsBranch
+ 3520  git add -A
+ 3521  git commit -m "Jeff's meeting commit"
+ 3522  git push -u origin jeffsBranch
+ 3523  git push origin jeffsBranch
+ 3524  git dif
+ 3525  git diff
+ 3526  git stash
+ 3527  git push origin jeffsotherbranch
+ 3528  git add -A
+ 3529  git commit -m "Jeff's meeting commit"
+ 3530  git push origin jeffsBranch 
+ 3531  git checkout master
+ 3532  git pull origin master
+ 3533  git checkout -b JeffsNewBranch
+ 3534  git checkout master
+ 3535  git checkout JeffsNewBranch
+ 3536  git merge master
+ 3537  git checkout master
+ 3538  git pull origin master
+ 3539  git checkout jeffsNewBranch
+ 3540  git merge master
+ 3541  git add -A
+ 3542  git commit -m "aligned signup page"
+ 3543  git push origin jeffsNewBranch
+ 3544  git checkout master
+ 3545  git pull origin master
+ 3546  git checkout jeffsNewBranch
+ 3547  git merge master
+ 3548  git checkout master
+ 3549  git pull origin master
+ 3550  git checkout jeffsNewBranch
+ 3551  git add -A
+ 3552  git commit -m "fixed divs"
+ 3553  git checkout jeffsNewBranch
+ 3554  git merge master
+ 3555  git add -A
+ 3556  git commit -m "minor fixes"
+ 3557  git push origin jeffsNewBranch
+ 3558  git checkout master
+ 3559  git pull origin master
+ 3560  git checkout jeffsNewBranch
+ 3561  git merge master
+ 3562  git add -A
+ 3563  git commit -m "minor fixes"
+ 3564  git push origin jeffsNewBranch
+ 3565  git checkout master
+ 3566  git pull origin master
+ 3567  git checkout jeffsNewBranch
+ 3568  git merge master
+ 3569  ls
+ 3570  git init
+ 3571  firebase init
+ 3572  ..
+ 3573  ls
+ 3574  git init
+ 3575  firebase init
+ 3576  firebase deploy
+ 3577  firebase init
+ 3578  firebase deploy
+ 3579  firebase init
+ 3580  firebase use --add
+ 3581  git init
+ 3582  firebase init
+ 3583  firebase deploy
+ 3584  git checkout jeffsNewBranch
+ 3585  ls
+ 3586  cd ecommerce-project
+ 3587  git add -A
+ 3588  git commit -m "no mas"
+ 3589  git push origin jeffsNewBranch
+ 3590  git checkout master
+ 3591  git pull origin master
+ 3592  firebase deploy
+ 3593  git pull origin master
+ 3594  firebase deploy
+ 3595  atom .
+ 3596  git add -A
+ 3597  git commit -m "no mas"
+ 3598  git push origin master
+ 3599  git pull origin master
+ 3600  firebase deploy
+ 3601  ls
+ 3602  ..
+ 3603  ls
+ 3604  git clone https://github.com/jhernandez89/q1-project-proposals.git
+ 3605  git checkout -b proOne
+ 3606  atom .
+ 3607  cd q1-project-proposals
+ 3608  atom .
+ 3609  ls
+ 3610  git checkout -b proOne
+ 3611  git checkout -b proTwo
+ 3612  ..
+ 3613  git checkout master
+ 3614  ls
+ 3615  rm -rf q1-project-proposals
+ 3616  git checkout master
+ 3617  ..
+ 3618  cd weekFive
+ 3619  mkdir weekFive
+ 3620  cd weekFive
+ 3621  git clone https://github.com/jhernandez89/q1-project-proposals.git
+ 3622  cd q1-project-proposals
+ 3623  atom .
+ 3624  git checkout -b proOne
+ 3625  git add -A
+ 3626  git commit -m "first proposal"
+ 3627  git checkout -b proTwo
+ 3628  git checkout -b proOne
+ 3629  git checkout proOne
+ 3630  git push origin proOne
+ 3631  git checkout -b proTwo
+ 3632  git checkout proTwo
+ 3633  git add -A
+ 3634  git commit -m "second proposal"
+ 3635  git push origin proTwo
+ 3636  ls
+ 3637  ..
+ 3638  mkdir Q1Assignment
+ 3639  cd Q1Assignment
+ 3640  touch index.js
+ 3641  atom .
+ 3642  ..
+ 3643  ls
+ 3644  cd weekFour
+ 3645  ls
+ 3646  cd galvanize-personnel
+ 3647  ls
+ 3648  atom index.html
+ 3649  atom .
+ 3650  ..
+ 3651  ls
+ 3652  ..
+ 3653  weekFive
+ 3654  ls
+ 3655  cd Q1
+ 3656  cd Q1Assignment
+ 3657  ls
+ 3658  atom .
+ 3659  ..
+ 3660  ls
+ 3661  ..
+ 3662  weekFour
+ 3663  ls
+ 3664  cd galvanize-personnel
+ 3665  atom .
+ 3666  ..
+ 3667  weekFive
+ 3668  ls
+ 3669  cd Q1Assignment
+ 3670  ls
+ 3671  touch index.html
+ 3672  ls
+ 3673  cd Downloads
+ 3674  ls
+ 3675  $ java -jar wiremock-standalone-2.5.1.jar --proxy-all=https://wordsapiv1.p.mashape.com/
+ 3676  java -jar wiremock-standalone-2.5.1.jar --proxy-all=https://wordsapiv1.p.mashape.com/
+ 3677  java -jar wiremock-standalone-2.5.1.jar --proxy-all=https://wordsapiv1.p.mashape.com/ --record
+ 3678  atom .
+ 3679  java -jar wiremock-standalone-2.5.1.jar --proxy-all=https://wordsapiv1.p.mashape.com/
+ 3680  java -jar wiremock-standalone-2.5.1.jar --proxy-all=https://wordsapiv1.p.mashape.com/ --record
+ 3681  java -jar wiremock-standalone-2.5.1.jar --proxy-all=https://wordsapiv1.p.mashape.com/
+ 3682  ls
+ 3683  mkdir css
+ 3684  cd css
+ 3685  java -jar wiremock-standalone-2.5.1.jar --proxy-all=https://wordsapiv1.p.mashape.com/
+ 3686  java -jar wiremock-standalone-2.5.1.jar --proxy-all=https://wordsapiv1.p.mashape.com/ --record
+ 3687  java -jar wiremock-standalone-2.5.1.jar --proxy-all=https://wordsapiv1.p.mashape.com/
+ 3688  touch main.css
+ 3689  java -jar wiremock-standalone-2.5.1.jar --proxy-all=https://wordsapiv1.p.mashape.com/
+ 3690  ..
+ 3691  atom .
+ 3692  ls
+ 3693  ..
+ 3694  ls
+ 3695  firebase init
+ 3696  firebase deploy
+ 3697  npm install -g firebase-tools
+ 3698  ls
+ 3699  cd Q1Assignment
+ 3700  ls
+ 3701  touch blacklist.js
+ 3702  ..
+ 3703  firebase deploy
+ 3704  ls
+ 3705  cd Q1
+ 3706  cd Q1Assignment
+ 3707  touch definition.js
+ 3708  ls
+ 3709  rm definition.js
+ 3710  firebase deploy
+ 3711  touch famousQuotes.js
+ 3712  ..
+ 3713  firebase deploy
+ 3714  firebase init
+ 3715  ls
+ 3716  cd galvanize
+ 3717  ls
+ 3718  cd date
+ 3719  ls
+ 3720  cd weekFive
+ 3721  ls
+ 3722  cd Q1Assignment
+ 3723  touch urbanDictionary.js
+ 3724  ls
+ 3725  ..
+ 3726  ls
+ 3727  firebase deploy
+ 3728  firebase 
+ 3729  firebase deploy
+ 3730  ls
+ 3731  cd Q1Assignment
+ 3732  ls
+ 3733  touch analysis.js
+ 3734  touch animate.html
+ 3735  touch animate.js
+ 3736  ls
+ 3737  ..
+ 3738  ls
+ 3739  firebase deploy
+ 3740  touch about.html
+ 3741  ls
+ 3742  rm about.html
+ 3743  cd Q1Assignment
+ 3744  ls
+ 3745  touch about.html
+ 3746  ls
+ 3747  touch domain.js
+ 3748  git add -A
+ 3749  touch hintBox.js
+ 3750  ls
+ 3751  rm hintBox.js
+ 3752  touch qTip.js
+ 3753  touch test.html
+ 3754  rm test.html
+ 3755  rm qTip.js
+ 3756  touch tooltip.js
+ 3757  rm tooltip.js
+ 3758  ls
+ 3759  ..
+ 3760  ls
+ 3761  firebase deploy
+ 3762  ls
+ 3763  git remote add https://github.com/jhernandez89/thesaurusRex.git
+ 3764  git init
+ 3765  git remote add https://github.com/jhernandez89/thesaurusRex.git
+ 3766  git add -A
+ 3767  git commit -m "finished project"
+ 3768  git push origin master
+ 3769  git remote add https://github.com/jhernandez89/thesaurusRex.git
+ 3770  git remote add
+ 3771  git init
+ 3772  ls
+ 3773  cd Q1Assignment
+ 3774  git init
+ 3775  git remote add origin https://github.com/jhernandez89/thesaurusRex.git
+ 3776  git add -A
+ 3777  git commit -m "finished project"
+ 3778  git push origin master
+ 3779  ls
+ 3780  cd galvanize
+ 3781  ls
+ 3782  cd
+ 3783  mkdir phaser
+ 3784  cd phaser
+ 3785  git clone https://github.com/jhernandez89/phaser.git
+ 3786  ls
+ 3787  cd phaser
+ 3788  ls
+ 3789  atom .
+ 3790  ls
+ 3791  ..
+ 3792  ls
+ 3793  ..
+ 3794  ls
+ 3795  cd galvanize
+ 3796  ls
+ 3797  cd date
+ 3798  ls
+ 3799  cd weekFive
+ 3800  ls
+ 3801  cd Q1Assignment
+ 3802  ls
+ 3803  atom .
+ 3804  firebase init
+ 3805  ls
+ 3806  cd galvanize
+ 3807  ls
+ 3808  cd date
+ 3809  ls
+ 3810  cd weekFive
+ 3811  firebase init
+ 3812  ls
+ 3813  cd galvanize
+ 3814  ls
+ 3815  cd date
+ 3816  ls
+ 3817  cd weekFive
+ 3818  ls
+ 3819  cd Q1Assignment
+ 3820  ls
+ 3821  firebase use --add
+ 3822  firebase init
+ 3823  ls
+ 3824  cd galvanize
+ 3825  ls
+ 3826  cd date
+ 3827  ls
+ 3828  cd weekFive
+ 3829  ls
+ 3830  firebase init
+ 3831  firebase deploy
+ 3832  ls
+ 3833  ..
+ 3834  ls
+ 3835  cd intermission
+ 3836  mkdir intermission
+ 3837  ls
+ 3838  cd intermission
+ 3839  ls
+ 3840  git clone https://github.com/jhernandez89/q1BreakGame.git
+ 3841  ls
+ 3842  atom .
+ 3843  ls
+ 3844  ..
+ 3845  ls
+ 3846  ..
+ 3847  ls
+ 3848  ..
+ 3849  ls
+ 3850  cd Downloads
+ 3851  ls
+ 3852  cd phaser_tutorial_02
+ 3853  ls
+ 3854  atom .
+ 3855  ls
+ 3856  ..
+ 3857  ls
+ 3858  ..
+ 3859  ls
+ 3860  cd galvanize
+ 3861  ls
+ 3862  cd date
+ 3863  ls
+ 3864  cd intermission
+ 3865  ls
+ 3866  ..
+ 3867  ls
+ 3868  ..
+ 3869  ls
+ 3870  cd Downloads
+ 3871  ls
+ 3872  cd phaser_tutorial_02
+ 3873  ls
+ 3874  atom .
+ 3875  ..
+ 3876  ls
+ 3877  ..
+ 3878  ls
+ 3879  cd galvanize
+ 3880  ls
+ 3881  cd dae
+ 3882  cd date
+ 3883  cd intermission
+ 3884  atom .
+ 3885  git merge master
+ 3886  git pull origin master
+ 3887  ..
+ 3888  ls
+ 3889  cd
+ 3890  cd galvanize/
+ 3891  ls
+ 3892  cd date/intermission/q1BreakGame
+ 3893  git pull origin master
+ 3894  atom .
+ 3895  ls
+ 3896  git pull origin master
+ 3897  npm install -g grunt-cli
+ 3898  ls
+ 3899  firebase serve
+ 3900  lsjf
+ 3901  git pull origin master
+ 3902  firebase serve
+ 3903  ls
+ 3904  ..
+ 3905  git pull origin master
+ 3906  ls
+ 3907  rm -rf q1BreakGame
+ 3908  ls
+ 3909  git clone https://github.com/jhernandez89/q1BreakGame.git
+ 3910  ls
+ 3911  cd q1BreakGame
+ 3912  ls
+ 3913  firebase serve
+ 3914  ls
+ 3915  ..
+ 3916  ls
+ 3917  rm -rf q1BreakGame
+ 3918  ls
+ 3919  git clone https://github.com/TheWailingLou/q1BreakGame.git
+ 3920  ls
+ 3921  cd q1BreakGame
+ 3922  ls
+ 3923  firebase serve
+ 3924  git pull origin master
+ 3925  git pull
+ 3926  git pull master
+ 3927  git pull origin master
+ 3928  firebase serve
+ 3929  ls
+ 3930  cd public
+ 3931  ls
+ 3932  firebase serve
+ 3933  git chckout master
+ 3934  git checkout master
+ 3935  git diff test
+ 3936  git pull origin master
+ 3937  ..
+ 3938  firebase serve
+ 3939  ls
+ 3940  git pull origin master
+ 3941  ls
+ 3942  git pull origin master
+ 3943  firebase serve
+ 3944  ls
+ 3945  open .
+ 3946  git checkout -b jeffsStuff
+ 3947  git merge master
+ 3948  git checkout master
+ 3949  git pull origin master
+ 3950  git checkout jeffsNewBranch
+ 3951  git checkout jeffsStuff
+ 3952  git merge master
+ 3953  firebase serve
+ 3954  LS
+ 3955  git checkout master
+ 3956  git pull origin master
+ 3957  git checkout jeffsStuff
+ 3958  git merge master
+ 3959  firebase serve
+ 3960  ls
+ 3961  git pull origin master
+ 3962  git checkout master
+ 3963  git pull origin master
+ 3964  git stash
+ 3965  git pull origin master
+ 3966  git checkout jeffsStuff
+ 3967  git merge master
+ 3968  atom .
+ 3969  firebase serve
+ 3970  git add -A
+ 3971  git commit -m "skeleton and mummy pat"
+ 3972  git push origin jeffsStuff
+ 3973  git push -u origin jeffsBranch
+ 3974  git checkout master
+ 3975  git merge jeffsStuff
+ 3976  git add -A
+ 3977  git commit -m "skeleton and mummy pat"
+ 3978  git push origin master
+ 3979  git psuh
+ 3980  git push
+ 3981  git remote add myrepo https://github.com/jhernandez89/q1BreakGame.git
+ 3982  git push myrepo master
+ 3983  firebase serve
+ 3984  git pull origin master
+ 3985  firebase serve
+ 3986  ls
+ 3987  ..
+ 3988  ls
+ 3989  ..
+ 3990  ls
+ 3991  ..
+ 3992  ls
+ 3993  ..
+ 3994  ls
+ 3995  cd galvanize/
+ 3996  ls
+ 3997  cd projects
+ 3998  ls
+ 3999  ..
+ 4000  cd practice
+ 4001  ls
+ 4002  ..
+ 4003  ls
+ 4004  ..
+ 4005  ls
+ 4006  cd ga
+ 4007  cd galvanize/
+ 4008  ls
+ 4009  cd date
+ 4010  ls
+ 4011  cd intermission
+ 4012  cd q1BreakGame
+ 4013  firebase serve
+ 4014  ls
+ 4015  git add -A
+ 4016  git commit -m "gems with bottom scorebox"
+ 4017  git push myrepo master
+ 4018  git pull origin master
+ 4019  git checkout jeffsStuff
+ 4020  git pull origin master
+ 4021  ls
+ 4022  ..
+ 4023  ls
+ 4024  mkdir newShit
+ 4025  ls
+ 4026  cd mkShit
+ 4027  git clone https://github.com/jhernandez89/q1BreakGame.git
+ 4028  ls
+ 4029  cd newShit
+ 4030  git clone https://github.com/jhernandez89/q1BreakGame.git
+ 4031  atom .
+ 4032  ls
+ 4033  cd q1BreakGame
+ 4034  ls
+ 4035  firebase serve
+ 4036  git pull origin master
+ 4037  ls
+ 4038  ..
+ 4039  ls
+ 4040  mkdir newnewShit
+ 4041  cd newnewShit
+ 4042  git clone https://github.com/TheWailingLou/q1BreakGame.git
+ 4043  ls
+ 4044  cd q1BreakGame
+ 4045  ls
+ 4046  firebase serve
+ 4047  git pull origin master
+ 4048  firebase serve
+ 4049  git pull origin master
+ 4050  firebase serve
+ 4051  git pull origin master
+ 4052  ..
+ 4053  ls
+ 4054  ..
+ 4055  ls
+ 4056  ..
+ 4057  ls
+ 4058  ..
+ 4059  ls
+ 4060  mkdir weekSeven
+ 4061  cd weekSeven
+ 4062  ls
+ 4063  git clone https://github.com/jhernandez89/galvanize-eats.git
+ 4064  ls
+ 4065  cd galvanize-eats
+ 4066  ls
+ 4067  atom .
+ 4068  ls
+ 4069  git checkout -b companyName
+ 4070  git checkout master
+ 4071  ..
+ 4072  ls
+ 4073  firebase init
+ 4074  ls
+ 4075  cd galvanize-eats
+ 4076  ls
+ 4077  git checkout companyName
+ 4078  git remote add myRepo https://github.com/jhernandez89/galvanize-eats.git
+ 4079  git push myRepo master
+ 4080  git add -A
+ 4081  git commit -m "company name"
+ 4082  git push myRepo master
+ 4083  git push origin master
+ 4084  git checkout master
+ 4085  git merge companyName
+ 4086  ls
+ 4087  touch main.css
+ 4088  git checkout -b navagateToOrder
+ 4089  git push myRepo navagateToOrder 
+ 4090  git add -A
+ 4091  git commit -m "navagateToOrder"
+ 4092  git push myRepo navagateToOrder 
+ 4093  ls
+ 4094  git checkout master
+ 4095  ls
+ 4096  git merge navagateToOrder
+ 4097  git checkout -b companyInfo
+ 4098  git add -A
+ 4099  git commit -m "company info"
+ 4100  git push myRepo companyInfo
+ 4101  git checkout master
+ 4102  git merge companyInfo
+ 4103  git checkout -b copyright
+ 4104  git add -A
+ 4105  git commit -m "copyright"
+ 4106  git push myRepo companyInfo
+ 4107  git push myRepo copyright
+ 4108  ls
+ 4109  git checkout master
+ 4110  git merge copyright
+ 4111  ls
+ 4112  git checkout -b foodToOrder
+ 4113  touch order.js
+ 4114  ls
+ 4115  ..
+ 4116  ls
+ 4117  ..
+ 4118  ls
+ 4119  weekFive
+ 4120  ls
+ 4121  atom .
+ 4122  ls
+ 4123  git checkout foodToOrder
+ 4124  ls
+ 4125  ..
+ 4126  ls
+ 4127  cd weekSeven
+ 4128  ls
+ 4129  cd galvanize-eats
+ 4130  ls
+ 4131  git add -A
+ 4132  git checkout foodToOrder
+ 4133  git commit -m "See what food is available"
+ 4134  git push myRepo foodToOrder
+ 4135  git checkout master
+ 4136  git merge foodToOrder
+ 4137  git checkout -b selectItem
+ 4138  touch selection.js
+ 4139  git add -A
+ 4140  git commit -m "select an item"
+ 4141  git push myRepo selectItem
+ 4142  git checkout master
+ 4143  git merge selectItem
+ 4144  git checkout -b totalOrder
+ 4145  git add -A
+ 4146  git commit -m "see order total"
+ 4147  git push myRepo totalOrder
+ 4148  git checkout master
+ 4149  git merge totalOrder
+ 4150  touch post.js
+ 4151  firebase deploy
+ 4152  git add -A
+ 4153  git commit -m "finished product"
+ 4154  ls
+ 4155  git push origin master
+ 4156  git push myRepo master
+ 4157  firebase deploy
+ 4158  atom .
+ 4159  ..
+ 4160  ls
+ 4161  git clone https://github.com/jhernandez89/node-assessment.git
+ 4162  cd node-assessment
+ 4163  atom .
+ 4164  node -v
+ 4165  ls
+ 4166  mkdir node_playground
+ 4167  cd node_playground
+ 4168  ls
+ 4169  touch shout.js
+ 4170  ..
+ 4171  cd node_playground
+ 4172  ls
+ 4173  atom .
+ 4174  node shout.js
+ 4175  node shout.js shhhhh
+ 4176  npm install learnyounode -g
+ 4177  sl
+ 4178  ls
+ 4179  learnyounode
+ 4180  touch program.js
+ 4181  atom .
+ 4182  node program.js
+ 4183  learnyounode verify program.js
+ 4184  learnyounode
+ 4185  learnyounode verify program.js
+ 4186  learnyounode print
+ 4187  learnyounode verify program.js
+ 4188  learnyounode
+ 4189  ls
+ 4190  touch hello.ms
+ 4191  learnyounode verify program.js
+ 4192  learnyounode print
+ 4193  learnyounode verify program.js
+ 4194  ls
+ 4195  s
+ 4196  ls
+ 4197  ..
+ 4198  ls
+ 4199  ..
+ 4200  ls
+ 4201  cd galvanize-eats
+ 4202  atom .
+ 4203  ls
+ 4204  mkdir testTest
+ 4205  cd testTest
+ 4206  ls
+ 4207  npm init
+ 4208  atom .
+ 4209  npm install lodash
+ 4210  npm install package --save
+ 4211  npm install lodash --save
+ 4212  npm install package --save
+ 4213  npm install lodash --save
+ 4214  npm install
+ 4215  npm whoami -h
+ 4216  npm whoami
+ 4217  ls
+ 4218  ..
+ 4219  ls
+ 4220  ..
+ 4221  ls
+ 4222  cd node-assessment
+ 4223  ls
+ 4224  atom README.md
+ 4225  ls
+ 4226  cd node_playground
+ 4227  ls
+ 4228  npm init
+ 4229  ls
+ 4230  ..
+ 4231  ls
+ 4232  ..
+ 4233  ls
+ 4234  cd galvanize-eats
+ 4235  atom .
+ 4236  ls
+ 4237  cd galvanize
+ 4238  ls
+ 4239  cd date
+ 4240  ls
+ 4241  cd weekSeven
+ 4242  ls
+ 4243  mkdir thursWarm
+ 4244  cd thursWarm
+ 4245  ls
+ 4246  touch warmup.js
+ 4247  atom warmup.js
+ 4248  ls
+ 4249  node warmup.js
+ 4250  ..
+ 4251  git clone https://github.com/jhernandez89/express-basics-assessment.git
+ 4252  ls
+ 4253  cd express-basics-assessment && atom .
+ 4254  npm install
+ 4255  npm test
+ 4256  npm install express --save
+ 4257  npm test
+ 4258  npm install supertest --save
+ 4259  npm test
+ 4260  mkdir learn-express-static
+ 4261  cd learn-express-static
+ 4262  ls
+ 4263  npm init
+ 4264  ls
+ 4265  npm install express -S
+ 4266  ls
+ 4267  touch app.js
+ 4268  atom .
+ 4269  touch main.js
+ 4270  touch index.html
+ 4271  npm install nodemon -g
+ 4272  ls
+ 4273  nodemon
+ 4274  ls
+ 4275  cd galvanize
+ 4276  ls
+ 4277  cd date
+ 4278  ls
+ 4279  cd weekSeven
+ 4280  ls
+ 4281  cd express-basics-assessment && atom .
+ 4282  atom .
+ 4283  ls
+ 4284  ..
+ 4285  ls
+ 4286  cd galvanize-eats
+ 4287  ls
+ 4288  cd learn-express-static && atom .
+ 4289  ls
+ 4290  ..
+ 4291  ls
+ 4292  brew install heroku
+ 4293  heroku help
+ 4294  heroku login
+ 4295  mkdir express_deployment
+ 4296  npm init
+ 4297  npm install express -S
+ 4298  touch app.js
+ 4299  ls
+ 4300  cd express_deployment
+ 4301  npm init
+ 4302  npm install express -S
+ 4303  touch app.js
+ 4304  atom .
+ 4305  npm start
+ 4306  nodemon
+ 4307  npm start
+ 4308  git status
+ 4309  touch .getignore
+ 4310  git status
+ 4311  npm install nodemon -g
+ 4312  nodemon
+ 4313  ls
+ 4314  git status
+ 4315  ls
+ 4316  git status
+ 4317  ls
+ 4318  git status
+ 4319  ls -a
+ 4320  git status
+ 4321  pwd
+ 4322  ls
+ 4323  git status
+ 4324  ls
+ 4325  ..
+ 4326  ls
+ 4327  rm -rf .git
+ 4328  cd express_deployment
+ 4329  ls
+ 4330  git init
+ 4331  ls
+ 4332  git status
+ 4333  npm install dotenv -S
+ 4334  git add -A
+ 4335  git commit "initial commit"
+ 4336  touch .env
+ 4337  git status
+ 4338  git add -A
+ 4339  git commit "updated gitignore with .env"
+ 4340  git commit -m "updated gitignore with .env"
+ 4341  ls
+ 4342  ..
+ 4343  ls
+ 4344  cd express_deployment
+ 4345  lls
+ 4346  ls
+ 4347  nodemon
+ 4348  ls
+ 4349  nodemon
+ 4350  git add -A
+ 4351  git commit -m "port"
+ 4352  heroku apps:create
+ 4353  git remote -v
+ 4354  git push heroku master
+ 4355  heroku config:set ANSWER=42
+ 4356  git help
+ 4357  node
+ 4358  clear
+ 4359  ls
+ 4360  node
+ 4361  clear
+ 4362  node
+ 4363  ls
+ 4364  ..
+ 4365  ls
+ 4366  ..
+ 4367  ls
+ 4368  cd galvanize-eats
+ 4369  ls
+ 4370  atom .
+ 4371  ls
+ 4372  ..
+ 4373  ls
+ 4374  git clone https://github.com/jhernandez89/REST-assessment.git
+ 4375  cd REST-assessment
+ 4376  ls
+ 4377  atom .
+ 4378  ls
+ 4379  ..
+ 4380  ls
+ 4381  git clone https://github.com/jhernandez89/intro-to-crud-assessment.git
+ 4382  atom .
+ 4383  ls
+ 4384  cd intro-to-crud-assessment
+ 4385  ls
+ 4386  atom .
+ 4387  npm install
+ 4388  nodemon
+ 4389  ..
+ 4390  ls
+ 4391  git clone https://github.com/jhernandez89/lowdb.git
+ 4392  ls
+ 4393  cd lowdb
+ 4394  ls
+ 4395  atom 
+ 4396  atom .
+ 4397  ..
+ 4398  ls
+ 4399  git clone https://github.com/jhernandez89/intro-to-crud-lesson.git
+ 4400  cd intro-to-crud-assessment
+ 4401  atom .
+ 4402  npm install
+ 4403  ..
+ 4404  ls
+ 4405  cd intro-to-crud-lesson
+ 4406  atom .
+ 4407  npm install
+ 4408  nodemon app.js
+ 4409  ..
+ 4410  ls
+ 4411  ..
+ 4412  ls
+ 4413  cd intro-to-crud-lesson
+ 4414  http locahl:host3000/dogs
+ 4415  npm install httpie -g
+ 4416  brew install httpie
+ 4417  http locahl:host3000/dogs
+ 4418  http local:host3000/dogs
+ 4419  http localhost:3000/dogs
+ 4420  http localhost:3000/dogs/heyEveryone
+ 4421  http localhost:3000/dogs/10
+ 4422  http localhost:3000/dogs/
+ 4423  http localhost:3000/dogs/50
+ 4424  http localhost:3000/dogs/0
+ 4425  http localhost:3000/dogs/1
+ 4426  http localhost:3000/dogs/2
+ 4427  http localhost:3000/dogs/
+ 4428  POST localhost:3000/dogs id=3 name='Max' breed='lassie' age=3
+ 4429  http POST localhost:3000/dogs id=3 name='Max' breed='lassie' age=3
+ 4430  http POST localhost:3000/dogs id=4 name='Goodwin' breed='terrier' age=2.5
+ 4431  http POST localhost:3000/dogs id=5 name='Maggie' breed='terrier' age=2.5
+ 4432  http localhost:3000/dogs/
+ 4433  http localhost:3000/dogs/1 name='Lord Cyrus of Puppington'
+ 4434  http PUT localhost:3000/dogs/1 name='Lord Cyrus of Puppington'
+ 4435  http DELETE localhost:3000/dogs/1
+ 4436  ls
+ 4437  cd galvanize
+ 4438  ls
+ 4439  cd date
+ 4440  ls
+ 4441  cd weekSeven
+ 4442  ls
+ 4443  git clone https://github.com/jhernandez89/movie-crud.git
+ 4444  ls movie-crud
+ 4445  atom .
+ 4446  ls
+ 4447  cd movie-crud
+ 4448  ls
+ 4449  atom .
+ 4450  ls
+ 4451  ..
+ 4452  ls
+ 4453  cd intro-to-crud-lesson
+ 4454  atom .
+ 4455  ls
+ 4456  ..
+ 4457  ls
+ 4458  cd
+ 4459  ls movie-crud
+ 4460  ls
+ 4461  cd movie-crud
+ 4462  ls
+ 4463  cd galvanize
+ 4464  ls
+ 4465  cd date
+ 4466  ls
+ 4467  cd weekSeven
+ 4468  ls
+ 4469  cd movie-crud
+ 4470  ls
+ 4471  git install express -S
+ 4472  npm install express -S
+ 4473  npm install lowdb -S
+ 4474  npm install body-parser
+ 4475  npm install body-parser -S
+ 4476  npm install nodemon
+ 4477  npm init
+ 4478  npm install body-parser -S
+ 4479  npm install express -S
+ 4480  npm install lowdb -S
+ 4481  npm install nodemon
+ 4482  npm install nodemon -S
+ 4483  npm install
+ 4484  touch routes.js
+ 4485  mkdir db
+ 4486  ls
+ 4487  cd db
+ 4488  touch db.json
+ 4489  ..
+ 4490  ls
+ 4491  touch app.js
+ 4492* ls
+ 4493* cd galvanize
+ 4494* ls
+ 4495* cd date
+ 4496* ls
+ 4497* cd weekSeven
+ 4498* ls
+ 4499* cd movie-crud
+ 4500* ls
